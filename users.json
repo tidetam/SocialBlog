@@ -9,8 +9,6 @@
         "https://jessejeashi.wordpress.com/2015/10/05/how-to-scientifically-like-and-be-liked/", 
         "https://jessejeashi.wordpress.com/2015/09/16/hello-world/"
     ], 
-    "siteURL": "https://jessejeashi.wordpress.com/", 
-    "id": 0, 
     "articles": [
         {
             "content": "Entropy can provide a unifying centrality framework for networks characterized by path-based transfer flows in Tutzauer\u2019s paper.Talking about centrality and entropy connection, to be specifically, the path is sequentially built as told in Lecture 8. It takes Markov model, the effect of transfer locality adjustment, etc. into consideration, which opens new ways for insightful, computationally efficient SNA.Based on EC(entropy centrality), an algorithm for community detection in networks which iteratively removes high-betweenness edges in an hierarchical clustering procedure was designed. Clusters result for the Dolphin network is demonstrated below. I suppose it can be used in project.EC\u00a0is well-interpretable using matrix multiplication which can be further adopted in recommendation systems, network visualization and detecting implicit overlapping network communities.", 
@@ -81,7 +79,9 @@
             ], 
             "title": "IEMS5723_Blog1_SMA TECHNIQUES"
         }
-    ]
+    ], 
+    "siteURL": "https://jessejeashi.wordpress.com/", 
+    "sid": "1155066181"
 }{
     "username": "desihu", 
     "articles_list": [
@@ -89,8 +89,6 @@
         "https://desihu.wordpress.com/2016/01/26/blog-2-decision-tree/", 
         "https://desihu.wordpress.com/2016/01/25/blog-1-social-media-analytics-is-not-only-about-data-mining/"
     ], 
-    "siteURL": "https://desihu.wordpress.com", 
-    "id": 1, 
     "articles": [
         {
             "content": "I would like to recommend a data mining software which is called SAS (STATISTICAL ANALYSIS SYSTEM) to you. As a leader in business analytics software, SAS is used by many famous business companies. This powerful software provides many useful services such as advanced analytics, multivariate analyses, business intelligence, data management and predictive analytics. We can use it to make sense of the data which means turn the data into knowledge we can use. Actually, I am not familiar with this software now but I will learn how to use it in ECLT 5810. So if you are interested in it, you can attend this course to get further information about it. Maybe this software is beneficial to your final project of IEMS 5723.", 
@@ -185,9 +183,11 @@
             ], 
             "title": "Blog 1: Social media analytics is not only about data\u00a0mining"
         }
-    ]
+    ], 
+    "siteURL": "https://desihu.wordpress.com", 
+    "sid": "1155066100"
 }{
-    "username": "yiyisite", 
+    "username": "sunyihan", 
     "articles_list": [
         "https://yiyisite.wordpress.com/2016/03/07/blog-3/", 
         "https://yiyisite.wordpress.com/2016/02/11/blog2/", 
@@ -197,8 +197,6 @@
         "https://yiyisite.wordpress.com/2015/10/07/the-reflection-of-social-psychology-in-our-daily-life/", 
         "https://yiyisite.wordpress.com/2015/09/22/why-do-we-use-wechat-instead-of-renren/"
     ], 
-    "siteURL": "https://yiyisite.wordpress.com/", 
-    "id": 2, 
     "articles": [
         {
             "content": "Last lecture, professor introduced the knowledge about SAN(social network analysis), which made me remind many interesting concepts and calculations i have learned in the last semester.Social media analytics include several process\u2014extract, analyze, summarize, and visualize the collected social data. People may feel confused about words and sentences, but when you transform those literal words into sociogram, it become more clear and easy to understand.Visualization is a process of graphical representation. Graph can help us have a better understand of the huge amount of social data, for it can represent relationships between objects. And those properties can help us make better use of the data, such as the degree of an actor is the meaning of the number of ties a person has in a social network, which might reflects the importance of this actor among others.", 
@@ -206,19 +204,19 @@
             "comments": [
                 {
                     "content": "I didn\u2019t learn the SNA course last term, but I have seen the graph about the social data. So I agree with you that the visualization can help us to have a better understanding of social data and it also takes less time for us to understand those data.", 
-                    "to": "yiyisite", 
+                    "to": "sunyihan", 
                     "from": "shirley1023xys", 
                     "time": "2016-03-08 @ 12:41"
                 }, 
                 {
                     "content": "I learn something new from your blog. It\u2019s helpful.", 
-                    "to": "yiyisite", 
+                    "to": "sunyihan", 
                     "from": "liyao6", 
                     "time": "2016-03-08 @ 16:50"
                 }, 
                 {
                     "content": "Visualization is always good. When we use a graph to describe a social network, we can simply recognize the clusters of users. We can find out the relationship of users, the popularity of people. We can even do some recommendation based on the cluster because usually people in same cluster have similar interests.", 
-                    "to": "yiyisite", 
+                    "to": "sunyihan", 
                     "from": "skycathy1314", 
                     "time": "2016-03-16 @ 20:15"
                 }
@@ -231,31 +229,31 @@
             "comments": [
                 {
                     "content": "Page rank is very complicate calculation when there are many pages. However, it is very important for using it in search engine. Thus, a good search engine can make a good page rank algorithm to help the user get what they want, just like Google search engine. The well developed functions also bring huge income for the company for advertisement.", 
-                    "to": "yiyisite", 
+                    "to": "sunyihan", 
                     "from": "tomtong1106", 
                     "time": "2016-02-16 @ 12:40"
                 }, 
                 {
                     "content": "It is really a point that deserves our attention. Page rank is discussed in the first semester.Knowing page ranking how to works will help us in building a comprehensive concept for web crawling even how to build a web search engine. Different search engines have different search algorithms and efficiency. I believe that not only are we supposed to use web  crawler to visit web pages and collect data but also we are encouraged to know something about search engine far beyond.", 
-                    "to": "yiyisite", 
+                    "to": "sunyihan", 
                     "from": "huanglingyun", 
                     "time": "2016-02-18 @ 16:41"
                 }, 
                 {
                     "content": "To a large extent, I think that page rank of one search engine will effect  the user experience, some web search engine (like Baidu) has the paid listing system (the page can pay to rank high), when the user want to search something, the pages in the top may not be the ones you want and with advertisement nature and impact.", 
-                    "to": "yiyisite", 
+                    "to": "sunyihan", 
                     "from": "shenxiaoru", 
                     "time": "2016-03-04 @ 14:00"
                 }, 
                 {
                     "content": "According to the lecture contents of last semester, a hub and authority theory is also implementable for ranking pages. Recommend it!", 
-                    "to": "yiyisite", 
+                    "to": "sunyihan", 
                     "from": "thomasfengblog", 
                     "time": "2016-03-06 @ 12:11"
                 }, 
                 {
                     "content": "There are some factors which can affect the result of page rank. For example, the algorithm, such as Google\u2019s pagerank, Microsoft browserank, can provide the relevant indicators. What\u2019s more, collecting the habits of users when they surf the internet can be a factor.  The keyword and its click rate are also factors.", 
-                    "to": "yiyisite", 
+                    "to": "sunyihan", 
                     "from": "liyao6", 
                     "time": "2016-03-08 @ 19:15"
                 }
@@ -268,44 +266,46 @@
             "comments": [
                 {
                     "content": "Every day, we create 2.5 quintillion bytes of data \u2014 so much that 90% of the data in the world today has been created in the last two years alone. And the reason why data analytics are so important currently is because we want to use data to make sense our world. Through deep understanding of the data from every corner of the world, we can not only make better predictions and conclusions, but also fill in gaps in our knowledge, and even find answers to questions we hadn\u2019t even thought of yet.", 
-                    "to": "yiyisite", 
+                    "to": "sunyihan", 
                     "from": "desihu", 
                     "time": "2016-02-01 @ 20:53"
                 }, 
                 {
                     "content": "In my opinion, we are so lucky to live in such an age. The opportunities to take the big data and do data analytics to improve all aspects of our lives are also growing exponentially. As said by Joseph Sirosh, Microsoft\u2019s recently elevated vice president, we are in a new era, the age of data. The fundamental transformations are being driven by the evolution of data analysis and intelligence from data. This is the age of the data professional.", 
-                    "to": "yiyisite", 
+                    "to": "sunyihan", 
                     "from": "zhenyahk", 
                     "time": "2016-02-02 @ 01:38"
                 }, 
                 {
                     "content": "We are in an information explosion society, which result in huge amount of data. The data is so valuable that kinds of useful information hide behind it. The information can be used for various purposes, like commercial, educational and so on. Data analysis technology aims to mine the valuable information from raw data to help understand what people need and want. As a matter of fact, data analysis can improve quality of life and make our life more convenient.", 
-                    "to": "yiyisite", 
+                    "to": "sunyihan", 
                     "from": "hyingying226", 
                     "time": "2016-02-22 @ 17:14"
                 }, 
                 {
                     "content": "The important role of Data analysis in the Information Age is no doubt,  and big data analysis has wide application prospects. I think the data analysis will change our lives, through data analysis, we will be able to clearly understand of our world.", 
-                    "to": "yiyisite", 
+                    "to": "sunyihan", 
                     "from": "wumin2015", 
                     "time": "2016-03-02 @ 20:14"
                 }, 
                 {
                     "content": "The era of big data brings numerous opportunities, but at the same time the privacy rights of individuals or institutions is likely to be hit. Big data contain a variety of personal information data and they are controlled by some Internet giant. However, these companies may collect data without the users\u2019 permission, so in fact  it\u2019s illegal to do like this. Therefore, in the era of big data, we should show more respect for the users\u2019 personal rights.", 
-                    "to": "yiyisite", 
+                    "to": "sunyihan", 
                     "from": "liyao6", 
                     "time": "2016-03-08 @ 19:47"
                 }, 
                 {
                     "content": "Today, the Internet has produced thousands of data per day, and their quantity is very large. So the analysis of these data is particularly important. Many universities have opened related courses, as you mentioned social media analysis. This course is very helpful to understand this topic.", 
-                    "to": "yiyisite", 
+                    "to": "sunyihan", 
                     "from": "shinnqy", 
                     "time": "2016-03-27 @ 16:28"
                 }
             ], 
             "title": "This is the age of data\u00a0analytics"
         }
-    ]
+    ], 
+    "siteURL": "https://yiyisite.wordpress.com/", 
+    "sid": "1155066090"
 }{
     "username": "luolinh", 
     "articles_list": [
@@ -313,8 +313,6 @@
         "https://luolinh.wordpress.com/2016/02/23/data-scraping-data-cralwing/", 
         "https://luolinh.wordpress.com/2016/01/26/two-common-machine-learning-techniques/"
     ], 
-    "siteURL": "https://luolinh.wordpress.com/", 
-    "id": 3, 
     "articles": [
         {
             "content": "As we learned in the course, we have learn some key phrases like density, degree, centrality and many more. Though lecture notes provide some explanations for us to understand those conceptions, it is still not clear.I want to provide a practical application of social network, or maybe you are not strange to it. That is the recommender system. The most widespread recommender system we can see is the advertisement recommendation on the or the on the Weibo pages or WeChat application. Such applications or websites deal with the social network of each application users. For example, there is a famous star like Jay Chou who has a huge amount of fans, which means he has \u00a0high centrality. If someone who follows his Weibo , the Weibo will introduce some relevant purchase for fans like new album or new concert information.Last semester, we had attempted to design a news recommender system, we collect data from Quora community about the interested vector of targeted users. According to the Interested vectors, we can calculate the similarity between users, if one users like one news, we will introduce the same news to other users who have high similarity with the first user.", 
@@ -334,16 +332,16 @@
             "comments": [], 
             "title": "Two Common Machine learning\u00a0techniques"
         }
-    ]
+    ], 
+    "siteURL": "https://luolinh.wordpress.com/", 
+    "sid": "1155066599"
 }{
-    "username": "IEMS5723_Social_Media_Analytics", 
+    "username": "luolixing", 
     "articles_list": [
         "https://iems5723.wordpress.com/2016/03/07/does-alphagos-victory-means-human-defeated-by-machine/", 
         "https://iems5723.wordpress.com/2016/02/23/u-think-its-successbut-i-think-its-only-an-imitation/", 
         "https://iems5723.wordpress.com/2016/02/01/sss/"
     ], 
-    "siteURL": "https://iems5723.wordpress.com/", 
-    "id": 4, 
     "articles": [
         {
             "content": "These days, the world\u2019s greatest Go player(Lee Se-Doi, from South Korean) were defeated by AlphaGo, an AI program developed by Google\u2019s DeepMind Unit. AlphaGo has already won three of the five games in the $1 million series, but yesterday Lee won back one game.Machines have already beaten Human Beings once at chess in 1997. As the most intelligent machine in the world, AlphaGo has a deeply specific purpose: its artificial intelligence is designed to use different types of programs in harmony to help it deal with the trillions upon trillions of different outcomes involved in the playing. And such kind of learning and analysing methods are only belong to Human Beings only, but now thanks to the Machine Learning, it makes AI also have this ability.The basic structure of Machine Learning consists of Probability, Statistical Estimation, Decision Theory, Graphical Models, Regularisation and Stochastic Processes. And there\u2019re basic knowledge for you to learn Natural Language Processing and Text Mining Technology. The Social Media tracker tool will use the above Technology to comb through millions of data about the manner and though of Human Beings. Then the Machine will use the analysing results to modify Human\u2019s behaviors, making decisions as Human, and even filter some unreasonable or\u00a0not smart results.But while the algorithm has been tailored to play in virtual environments like Go, the machine powering its learning has more general applications. But the development of the intelligence required to beat Lee Se-Dol has come about quicker than we\u2019ve expected.However,\u00a0the development of the intelligence required to beat Lee Se-Dol has come about quicker than we\u2019ve expected.Maybe it\u2019s really a time for our Human Beings to think of how to learn Machine Learning Better.", 
@@ -363,23 +361,23 @@
             "comments": [
                 {
                     "content": "I am also a user of Zhihu and I personally think that Zhihu has three striking characteristics. First of all, there are two kinds of user in Zhihu: user who is brilliant (or professional) and user who pretends he is brilliant (or professional). Secondly, there are two kinds of answer in Zhihu: one is professional and the other is \u201cone sentence witness\u201d (in Chinese, we call it \u201c\u6296\u673a\u7075\u201d). However, the general quality of answers is quite impressive. Finally, the users in Zhihu really like foreigners and it is easy for a foreigner to rack up a lot of followers without too much effort. For example, many foreigner users such as \u2018Negar Kordi\u2019, \u2018\u4f50\u85e4\u8c26\u4e00\u2019and \u2018\u8c2d\u8513\u8339\u2019 are now very popular in Zhihu and have become the internet celebrities in China. Well, what I said before is just a joke. However, I do think the prospect of Zhihu is optimistic and I will continue to support this interesting platform.", 
-                    "to": "IEMS5723_Social_Media_Analytics", 
+                    "to": "luolixing", 
                     "from": "desihu", 
                     "time": "February 1, 2016 at 4:29 pm"
                 }
             ], 
             "title": "Do you know about Zhihu\uff1f"
         }
-    ]
+    ], 
+    "siteURL": "https://iems5723.wordpress.com/", 
+    "sid": "1155043810"
 }{
-    "username": "socialmediaanalyticsiems5723", 
+    "username": "tomtong1106", 
     "articles_list": [
         "https://socialmediaanalyticsiems5723.wordpress.com/2016/03/02/sentiment-classification/", 
         "https://socialmediaanalyticsiems5723.wordpress.com/2016/02/16/k-means-clustering-and-naive-bayes-text-classification/", 
         "https://socialmediaanalyticsiems5723.wordpress.com/2016/01/26/analysis-among-information-on-the-internet/"
     ], 
-    "siteURL": "https://socialmediaanalyticsiems5723.wordpress.com/", 
-    "id": 5, 
     "articles": [
         {
             "content": "Sentiment Classification is a polarity detection for classifying an opinion document and estimate the polarity of opinions of the writer. One of the the approach is using dictionary to store same keywords score such as like =1 , bad = -1 etc and estimate the polarity by estimate the score each sentence has for classification.Using dictionary-based approach, we need to create dictionaries that store specific words with scores. Using these dictionary, we can get a normalised score for each sentence. Then, we can classify this sentence as positive, negative or neutral.\nFor example, dictionary = {like:+1,bad:-1, worth:+1, boring,-1}\nI like this movie => score =+1 => positive\nThis coffee taste bad => score=-1 =>negative\nThis movie is boring but still worth to watch it =>score = 0 =>neutral", 
@@ -399,7 +397,9 @@
             "comments": [], 
             "title": "Analysis Among Information on the\u00a0Internet"
         }
-    ]
+    ], 
+    "siteURL": "https://socialmediaanalyticsiems5723.wordpress.com/", 
+    "sid": "1155030186"
 }{
     "username": "Francis.yoyo", 
     "articles_list": [
@@ -412,8 +412,6 @@
         "https://francisyoyo.wordpress.com/2015/09/18/be-a-high-betweenness-centrality-in-small-world/", 
         "https://francisyoyo.wordpress.com/2015/09/17/hello-world/"
     ], 
-    "siteURL": "https://francisyoyo.wordpress.com", 
-    "id": 6, 
     "articles": [
         {
             "content": "In Lecture 6, we have studied a story about Twitter Mood and Stock Market. In China, the first sentiment-stock analysis software (http://www.stockradar.net) has been available for more than three years. The data of mood stock market index is from Sina Finance, Sohu Finance, even Weibo etc., and use their own algorithm program to extract the key elements of the core social data, then identify key indicators such as \u201cups, downs and sale\u201d, come out the predicted value of most investors to Stock Market.I am very interested in what algorithm program they use to analysis the text words of Weibo. Because of the complexity of people\u2019s language, it will be a very hard job. For example, Handling Negation is a process shows us that \u2018very good\u2019 and \u2018not good\u2019 should be treated differently and particularly. Some complicated Chinese grammar such as \u2018metaphor\u2019,\u2019 Innuendo \u2018 will also be difficult to analysis. There are two important Weibo Mood analysis dictionary (Weibo emoticon dictionary \u2018EmoDic\u2019 and Chinese emotional dictionary \u2018SixDic\u2019) to identify six emotions which Weibo expressed: happy, sadness, anger, fear, evil, scared. The dictionary-based method is an obvious advantage of Weibo Mood Analysis, even\u00a0Oxford Dictionary released \u00a0emoticon \u201cCried with Smile\u201d as the\u00a02015 annual word.In the end of this blog, I will put a picture of U.S. Mood Throughout the Day inferred from Twitter to show how clearly Twitter and Weibo Mood expressed our life. Thanks for reading.", 
@@ -490,7 +488,9 @@
             ], 
             "title": "An interesting training of classify\u00a0books"
         }
-    ]
+    ], 
+    "siteURL": "https://francisyoyo.wordpress.com", 
+    "sid": "1155073701"
 }{
     "username": "gmh92", 
     "articles_list": [
@@ -502,8 +502,6 @@
         "https://gmh92.wordpress.com/2015/10/07/some-views-about-the-herd-behavior/", 
         "https://gmh92.wordpress.com/2015/09/22/some-personal-opinion-about-small-world-phenomenon/"
     ], 
-    "siteURL": "https://gmh92.wordpress.com", 
-    "id": 7, 
     "articles": [
         {
             "content": "In the lecture seven, we reviewed some knowledge that we have learned last term about closeness, centrality and degree. All of these are basic definition of social networking analysis, so we need to learn it well to have a better understanding of social network analysis.We learned that there two dimensions for information flow processes within a social network, one is transmission dimension and the other is trajectory dimension. The transmission dimension distinguishes whether diffusion occurs via transfer or replication, and trajectory dimension concerns whether the traffic flows non-deterministically. Four different kinds of trajectories are classified according to their features, they are geodesics, paths, trails, and walks.", 
@@ -523,7 +521,9 @@
             "comments": [], 
             "title": "Something About Na\u00efve Bayes Text\u00a0Classification"
         }
-    ]
+    ], 
+    "siteURL": "https://gmh92.wordpress.com", 
+    "sid": "1155074693"
 }{
     "username": "zhenyacuhkblog", 
     "articles_list": [
@@ -531,8 +531,6 @@
         "https://zhenyacuhkblog.wordpress.com/2016/02/19/misunderstanding-of-social-media-analysis/", 
         "https://zhenyacuhkblog.wordpress.com/2016/01/29/advantages-and-disadvantages-of-naive-bayes-classifier/"
     ], 
-    "siteURL": "https://zhenyacuhkblog.wordpress.com", 
-    "id": 8, 
     "articles": [
         {
             "content": "We learned different levels of sentiment analysis in lecture 6. Document\u2014level and sentence\u2014level classification have limitations. They attempt to detect the overall polarity of a sentence, or text span, but do not return what people liked and disliked about an entity or some aspects of the entity. Thus, we need aspect\u2014level analysis to identify the aspects of target entities and the sentiment expressed towards a specific aspect.\u00a0 Aspect\u2014level analysis consists of the following tasks.Aspect term extraction: Given a set of sentences with pre-identified entities, identify the aspect terms present in the sentence and return a list containing all the distinct aspect terms.Aspect term polarity: Given a set of aspect terms within a sentence, determine whether the polarity of each aspect term is positive, negative, neutral or conflict.Aspect category detection: Given a predefined set of aspect categories, identify the aspect categories discussed in a given sentence.Aspect category polarity: Given a set of pre-identified aspect categories, determine the polarity of each aspect category.", 
@@ -552,7 +550,9 @@
             "comments": [], 
             "title": "Advantages and disadvantages of Na\u00efve Bayes\u00a0classifier"
         }
-    ]
+    ], 
+    "siteURL": "https://zhenyacuhkblog.wordpress.com", 
+    "sid": "1155066226"
 }{
     "username": "scarletthui", 
     "articles_list": [
@@ -564,8 +564,6 @@
         "https://scarletthui.wordpress.com/2015/10/06/social-cognitive-theory-we-are-born-to-be-social/", 
         "https://scarletthui.wordpress.com/2015/09/21/we-live-in-the-small-world-lecture-12/"
     ], 
-    "siteURL": "https://scarletthui.wordpress.com", 
-    "id": 9, 
     "articles": [
         {
             "content": "Classification is used to train machine to get a most suitable model in supervised learning. However, what should we do in unsupervised learning? In the process of solving a problem in real life, we cannot give everything a tag and classify them into training data. In these cases, unsupervised learning becomes significant.Actually as human-being, we use lots of unsupervised learning while we getting to know the real world. For example, we visit an art exhibition, we can approximately divide the arts into different types even though we know nothing about realism or impressionist. In unsupervised learning, the most typical example is clustering. Clustering is aiming to class things for their similarity instead of knowing exactly what they are.", 
@@ -666,9 +664,11 @@
             ], 
             "title": "The Applications of Sentiment\u00a0Analysis"
         }
-    ]
+    ], 
+    "siteURL": "https://scarletthui.wordpress.com", 
+    "sid": "1155066169"
 }{
-    "username": "welcome", 
+    "username": "huangdanlei", 
     "articles_list": [
         "https://iems5720blog.wordpress.com/2016/03/08/entropy-centrality/", 
         "https://iems5720blog.wordpress.com/2016/02/22/sentiment-analysis-opinion-mining/", 
@@ -678,8 +678,6 @@
         "https://iems5720blog.wordpress.com/2015/10/06/cases-on-herd-behavior/", 
         "https://iems5720blog.wordpress.com/2015/09/22/assignment-1-more-about-social-network-and-sna/"
     ], 
-    "siteURL": "https://iems5720blog.wordpress.com", 
-    "id": 10, 
     "articles": [
         {
             "content": "To describe the importance of entities in social network, there\u2019s a new method called entropy centrality apart from measurements like closeness, betweenness, degree and etc we\u2019ve learnt last term.It means the probability the flow stops at each other node if starting at a specific one. When entropy centrality of the starting entity is high, then nodes on the flow seem to stop at anywhere with equal probability so that it\u2019s difficult to predict the destination of flow. Otherwise, if entropy centrality of it is relative low, the probabilities of each node being the end of flow have quite large differences.Conversely, when the probability of each node seems to be equal or has few distinction in one network, the entropy centrality of the beginning of it seems to be high. And one network with maximum of entropy centrality will told to be with maximum of centrality(e.g. star network).\u00a0", 
@@ -699,7 +697,9 @@
             "comments": [], 
             "title": "Natural Language and\u00a0Processing"
         }
-    ]
+    ], 
+    "siteURL": "https://iems5720blog.wordpress.com", 
+    "sid": "1155072356"
 }{
     "username": "jiangyuheng", 
     "articles_list": [
@@ -707,8 +707,6 @@
         "https://jiangyuhengwordpresscom.wordpress.com/2016/02/23/sentiment-analysis-can-be-predictive/", 
         "https://jiangyuhengwordpresscom.wordpress.com/2016/01/27/natural-language-and-human-language/"
     ], 
-    "siteURL": "https://jiangyuhengwordpresscom.wordpress.com/", 
-    "id": 11, 
     "articles": [
         {
             "content": "In Sentiment Analysis, machine learning approach has two major learning approaches which are supervised learning and unsupervised learning. The differences mainly exists in training. Doing supervised learning, the tags, methods and formulas will be input into machine as training data. Although it can be efficient to teach, the limitation will also be clear. However by using unsupervised learning, no classification or tags can help to train. The machine will learn on its own. Google Deepmind is using unsupervised learning to let machine become a master in chess or simple games(The video below shows an example). The machine can discover so much unexpected achievement by itself and shock everyone. Besides, Deepmind has arranged a chess match between computer and chess master, Lee Sedol(\u674e\u4e16\u4e6d)\u3002\n", 
@@ -821,7 +819,9 @@
             ], 
             "title": "Natural language and Human\u00a0language"
         }
-    ]
+    ], 
+    "siteURL": "https://jiangyuhengwordpresscom.wordpress.com/", 
+    "sid": "1155073647"
 }{
     "username": "SHEN Xiaoru", 
     "articles_list": [
@@ -829,8 +829,6 @@
         "https://shenxiaoru.wordpress.com/2016/02/23/what-we-learn-from-review-analysis/", 
         "https://shenxiaoru.wordpress.com/2016/01/31/passive-learning-supervised-machine-learning/"
     ], 
-    "siteURL": "https://shenxiaoru.wordpress.com/", 
-    "id": 12, 
     "articles": [
         {
             "content": "The graph and network that professor Chan introduced in class is really interesting. The graph containing the nodes and edges shows the interaction of various objects visually. Take the Renren as example, the node could be a photo, and the edges could be the photo\u2019s comments from the user\u2019s friends. By the graph, you can clearly see how these things connect with each other.I found one visualization tool called \u2018Gephi\u2019, which is an interactive visualization and exploration platform for all kinds of networks and complex systems, dynamic and hierarchical graphs. We could use the Python to do the social analysis, and generate the gexf format imported to the Gephi for the better visualization effect.\n(I want to share a website which is about the Visualization http://globe.cid.harvard.edu/)", 
@@ -931,7 +929,9 @@
             ], 
             "title": "Passive Learning\u2014 Supervised Machine\u00a0Learning"
         }
-    ]
+    ], 
+    "siteURL": "https://shenxiaoru.wordpress.com/", 
+    "sid": "1155068672"
 }{
     "username": "annie2020", 
     "articles_list": [
@@ -942,8 +942,6 @@
         "https://annie2020.wordpress.com/2015/10/06/do-not-act-like-a-sheep/", 
         "https://annie2020.wordpress.com/2015/09/22/the-butterfly-effect-of-the-social-networks/"
     ], 
-    "siteURL": "https://annie2020.wordpress.com", 
-    "id": 13, 
     "articles": [
         {
             "content": "", 
@@ -963,9 +961,11 @@
             "comments": [], 
             "title": "Content Analysis in Party\u00a0Congress"
         }
-    ]
+    ], 
+    "siteURL": "https://annie2020.wordpress.com", 
+    "sid": "1155069533"
 }{
-    "username": "hyingying's  small world", 
+    "username": "hyingying226", 
     "articles_list": [
         "https://hyingyingblog.wordpress.com/2016/03/07/entropy-centrality/", 
         "https://hyingyingblog.wordpress.com/2016/02/18/sentiment-analysis-and-opinion-mining/", 
@@ -975,8 +975,6 @@
         "https://hyingyingblog.wordpress.com/2015/10/07/do-you-really-know-yourself/", 
         "https://hyingyingblog.wordpress.com/2015/09/19/hello-small-world/"
     ], 
-    "siteURL": "https://hyingyingblog.wordpress.com", 
-    "id": 14, 
     "articles": [
         {
             "content": "Entropy centrality was introduced by Tutzauer in 2007 as a measure of centrality for networks characterized by path-based transfer flows. As most of the centrality measures before 2005 focused on either parallel duplication or geodesics, Tutzauer\u2019s methods seemed quite different. Because of basis on Shannon\u2019s information theory, \u00a0it was named \u201centropy\u201d centrality. In Shannon\u2019s information theory, information can be measured by uncertainty, or entropy, it indicates the amount of randomness or range of choice, if there is much randomness and plenty of choice, then information is high. Information in a system can be described in a mathematic method by this formula: H = \u2013 \u2211( pi)(log\u00a0pi), that is related to transmitted symbols\u2019 probability\u00a0pi.\u00a0", 
@@ -984,7 +982,7 @@
             "comments": [
                 {
                     "content": "In the information age, we need a proper measuring standard for information so that it makes data analysis easier. The information entropy is the standard for us to measure information. As what you say, when choices are highly constrained, the entropy centrality is low.And this means it\u2019s more easier to predict certain symbols. On the contrary, if the entropy centrality is high, prediction is difficult.", 
-                    "to": "hyingying's  small world", 
+                    "to": "hyingying226", 
                     "from": "liyao6", 
                     "time": "2016-03-20 at 21:26"
                 }
@@ -997,43 +995,43 @@
             "comments": [
                 {
                     "content": "It really strikes me as a fantastic matter. Sentiment analysis for opinion mining can be employed in various services industry. Actually, we are doing this everyday in our daily life since everyday we have to deal with many choices. We have to make up our mind to do something by referring our information by sentiment analysis. During the time, data mining actually happened. Nowadays, people always turn to help for those people who previously tried something including movies, restaurants, shopping, and many other things\uff01", 
-                    "to": "hyingying's  small world", 
+                    "to": "hyingying226", 
                     "from": "huanglingyun", 
                     "time": "2016-02-18 at 17:27"
                 }, 
                 {
                     "content": "Now people have a tendency to look products reviews  before making a decision online,  so that they can get real  information about the attitude and opinions on product ,at the same time , merchants also need to focus on these comments , by deeper analysis of these data, business men can make better decisions.", 
-                    "to": "hyingying's  small world", 
+                    "to": "hyingying226", 
                     "from": "wumin2015", 
                     "time": "2016-03-02 at 23:18"
                 }, 
                 {
                     "content": "Nowadays, not only the customers prefer to use comments to help themselves to make decisions but also the merchant would like to analysis the appetite of the customers by sentimental analysis and opinion mining. So this technology will developed fast and make our life more convenient.", 
-                    "to": "hyingying's  small world", 
+                    "to": "hyingying226", 
                     "from": "shirley1023xys", 
                     "time": "2016-03-08 at 18:15"
                 }, 
                 {
                     "content": "I quite agree with you about that sentiment analysis and opinion mining is a very useful study field. On the one hand, it can offer customers reference for decision making, such as whether to try a new restaurant, which can help people save more time and make more satisfied choices since we have to faced the huge amount of data and deal with many choices. On the other hand, for merchants it will also bring more opportunities.", 
-                    "to": "hyingying's  small world", 
+                    "to": "hyingying226", 
                     "from": "sunyihan", 
                     "time": "2016-03-09 at 15:25"
                 }, 
                 {
                     "content": "The reviews are much more significant than ever these days, you mentioned that people from similar place may have same appetites, I think it deserves more attention, the more information the merchants get from the reviews, the more business opportunities they can achieve. They could change their sales strategy to cater to various consumer groups for greater benefits.", 
-                    "to": "hyingying's  small world", 
+                    "to": "hyingying226", 
                     "from": "shenxiaoru", 
                     "time": "2016-03-16 at 16:05"
                 }, 
                 {
                     "content": "In our daily life, we have already been used to refering to comments to make decisions. More and more smart merchants are also start to analyze the appetite of the customers. Actually, I think it is smart to focus on customers whose hometowns are same or near to yours for reference. I have never thought of that before. Maybe, when we do recommendation, we can also put more priority on customers comes from same place.", 
-                    "to": "hyingying's  small world", 
+                    "to": "hyingying226", 
                     "from": "skycathy1314", 
                     "time": "2016-03-16 at 20:27"
                 }, 
                 {
                     "content": "I think the example in your blog exactly shows how we can benefit from sentiment analysis and opinion mining in our daily life. Text is the most common data source for sentiment analysis. However, it\u2019s not the only source. The facial coding technology for videos and the speech analysis for audio stream are more advanced methods for evaluating the emotional state. If we can use the technique properly, maybe it will make a big difference to our lives in the future.", 
-                    "to": "hyingying's  small world", 
+                    "to": "hyingying226", 
                     "from": "liyao6", 
                     "time": "2016-03-20 at 19:00"
                 }
@@ -1046,32 +1044,34 @@
             "comments": [
                 {
                     "content": "I can\u2019t agree with you more that content analysis requires both human and computer techniques.  Without the help of human techniques, computer can not precisely complete the content analysis. But the predominance of computer techniques can not be negligible. In my opinion, with the development of technology, content analysis will be less dependent on human techniques, more dependent on computer techniques, though human technique will still be important.", 
-                    "to": "hyingying's  small world", 
+                    "to": "hyingying226", 
                     "from": "zhenyahk", 
                     "time": "2016-02-01 at 21:47"
                 }, 
                 {
                     "content": "To perform content analysis, the most important technique is on the algorithm of machine learning. To complete a well-developed algorithm, it is important to use daily information around the analysis topic. After well-consideration about the features needs to extract, we can make a well performance program for content analysis. Thus, human and computer need to be well       co-operate.", 
-                    "to": "hyingying's  small world", 
+                    "to": "hyingying226", 
                     "from": "tomtong1106", 
                     "time": "2016-03-01 at 10:28"
                 }, 
                 {
                     "content": "As what you say in your blog,  both human and machine techniques has advantages and disadvantages. And there is one thing I think we should pay attention to. Qualitative analysis by human doesn\u2019t mean human should analyze by their deep subjective understanding. It\u2019s the techniques which is reshaped based on counts and connections.", 
-                    "to": "hyingying's  small world", 
+                    "to": "hyingying226", 
                     "from": "liyao6", 
                     "time": "2016-03-20 at 18:38"
                 }, 
                 {
                     "content": "Maybe we can mining some value and real information through comment mining, to avoid the false or glorified information, such as box-office income.", 
-                    "to": "hyingying's  small world", 
+                    "to": "hyingying226", 
                     "from": "yangjian0404", 
                     "time": "2016-03-27 at 22:51"
                 }
             ], 
             "title": "Content analysis"
         }
-    ]
+    ], 
+    "siteURL": "https://hyingyingblog.wordpress.com", 
+    "sid": "1155066098"
 }{
     "username": "yisongwu", 
     "articles_list": [
@@ -1079,8 +1079,6 @@
         "https://yisongwu.wordpress.com/2016/02/20/difficulty-in-achieving-accurate-sentiment-analysis/", 
         "https://yisongwu.wordpress.com/2016/01/30/some-idea-about-naive-bayes-text-classification/"
     ], 
-    "siteURL": "https://yisongwu.wordpress.com", 
-    "id": 15, 
     "articles": [
         {
             "content": "In the lecture six, we still learnt sentiment analysis and opinion mining, at the latter part of the lecture, the handling negation is slightly mentioned. I think it is a very important part in sentiment analysis, because of some sentiment shifters, which are words and phrases that can change sentiment orientations.In some simple situations, the sentiment shifters are just before the opinion words, sometimes the sentiment shifters are some far away from opinion words, like \u201cI don\u2019t think the camera\u2019s color is the best one.\u201d So the method treating the sentiment shifters like \u201cdon\u2019t\u201d as the mark, and when there are odd marks in one sentence, the opinion word is judged as its opposite; while the opinion is judged as it original meaning when there are even marks. But there still many unexpected situations in sentiment analysis and opinion mining, so we should treat every sentences carefully.", 
@@ -1163,7 +1161,9 @@
             ], 
             "title": "Some idea about Naive Bayes Text\u00a0Classification"
         }
-    ]
+    ], 
+    "siteURL": "https://yisongwu.wordpress.com", 
+    "sid": "1155068552"
 }{
     "username": "hewenda211", 
     "articles_list": [
@@ -1175,11 +1175,9 @@
         "https://hewenda211.wordpress.com/2015/10/07/fast-and-easy-way-to-study/", 
         "https://hewenda211.wordpress.com/2015/09/23/the-first-step-in-learning-social-networking/"
     ], 
-    "siteURL": "https://hewenda211.wordpress.com", 
-    "id": 16, 
     "articles": [
         {
-            "content": "An emoticon, such as ;-), is shorthand for a facial expression. It allows the author to express her/his emotions ,feelings and moods , or just add some non-verbal elements to attract reader\u2019s attention.In our online social platform called emojis, like professor let us draw the face in the lecture, every emojis can express different sentiments. Different language used different characters to write, so it\u2019s hard to figure out complicated website comments used a lot of languages, but the emojis are unicode graphic symbols used ASCII show some meaning on our social media, like twitter or whatsapp.Each emoji have it unique means, positive or negative so we can use the triangle \uff1a3-valued variable c \u2208 {\u22121, 0, +1} \u00a0to evaluate both the emoji\u2019s sentiments and the outline sentiment of the sentence. Do a briefly classification. Like a heart means love or a sad face have negative emotions.Here is a link to sum up the total emoji used number on twitter :http://emojitracker.comthrough this website we can learn which emoji have the most used, and discover the different\u00a0custom on use emojis in different culture.", 
+            "content": "An emoticon, such as\ud83d\ude09, is shorthand for a facial expression. It allows the author to express her/his emotions ,feelings and moods , or just add some non-verbal elements to attract reader\u2019s attention.In our online social platform called emojis, like professor let us draw the face in the lecture, every emojis can express different sentiments. Different language used different characters to write, so it\u2019s hard to figure out complicated website comments used a lot of languages, but the emojis are unicode graphic symbols used ASCII show some meaning on our social media, like twitter or whatsapp.Each emoji have it unique means, positive or negative so we can use the triangle \uff1a3-valued variable c \u2208 {\u22121, 0, +1} \u00a0to evaluate both the emoji\u2019s sentiments and the outline sentiment of the sentence. Do a briefly classification. Like a heart means love or a sad face have negative emotions.Here is a link to sum up the total emoji used number on twitter :http://emojitracker.comthrough this website we can learn which emoji have the most used, and discover the different\u00a0custom on use emojis in different culture.", 
             "url": "https://hewenda211.wordpress.com/2016/03/09/term2emojis-in-sentiment-analysis/", 
             "comments": [], 
             "title": "Term2:Emojis in Sentiment\u00a0Analysis"
@@ -1196,7 +1194,9 @@
             "comments": [], 
             "title": "Term2:About Naive Bayes\u00a0Classification"
         }
-    ]
+    ], 
+    "siteURL": "https://hewenda211.wordpress.com", 
+    "sid": "1155073615"
 }{
     "username": "skycathy1314", 
     "articles_list": [
@@ -1204,8 +1204,6 @@
         "https://skycathy1314.wordpress.com/2016/02/17/spam-detection/", 
         "https://skycathy1314.wordpress.com/2016/01/28/supervised-and-unsupervised-learning/"
     ], 
-    "siteURL": "https://skycathy1314.wordpress.com/", 
-    "id": 17, 
     "articles": [
         {
             "content": "To implement sentiment analysis, we should identify the entity, aspect, opinion holder, time and sentiment from a given opinion document.There are few ways to extract aspect, the basic ways are:1)Frequent nouns\u00a0and noun\u00a0phrases. Aspects are usually nouns, so we can use POS Taggers to identify those words and keep the frequent ones.2)Opinion and\u00a0target relations. Sometimes, a sentence has some sentiment words but does not have any frequent nouns, then the nearest noun can be considered as the aspect.There are some other methods that can help, such as\u00a0supervised learning,\u00a0topic\u00a0modeling.", 
@@ -1276,7 +1274,9 @@
             ], 
             "title": "Supervised and Unsupervised\u00a0Learning"
         }
-    ]
+    ], 
+    "siteURL": "https://skycathy1314.wordpress.com/", 
+    "sid": "1155066036"
 }{
     "username": "shirley1023xys", 
     "articles_list": [
@@ -1284,8 +1284,6 @@
         "https://shirley1023xys.wordpress.com/2016/02/23/the-python-chinese-word-segmentation-module-jieba/", 
         "https://shirley1023xys.wordpress.com/2016/01/28/an-introduction-of-nlp/"
     ], 
-    "siteURL": "https://shirley1023xys.wordpress.com/", 
-    "id": 18, 
     "articles": [
         {
             "content": "There are two points to analyze the centrality of social network: centralization and centrality. Centralization represent the attribution about the single point in the network while centrality show the attribution of the whole graph of the network.There are four analysis methods of centrality: degree centrality, betweenness centrality, closeness centrality, eigenvector centrality. In addition, every method have degree and potential index.Degree centrality means that if a point has a lot of indirect relatives in the social network, the point is in the central. It uses in-degree and out-degree to represent the DC, the in-degree is regarded as the degree of popularity and the out-degree is the degree of gregarious.Betweenness centrality is the number of the shortest path. Closeness centrality is the degree of dependence of a point to other point. Eigenvector centrality is based on the relative index, the connection of high index point is more important than the low index point.", 
@@ -1368,26 +1366,26 @@
             ], 
             "title": "AN INTRODUCTION OF\u00a0NLP"
         }
-    ]
+    ], 
+    "siteURL": "https://shirley1023xys.wordpress.com/", 
+    "sid": "1155068553"
 }{
-    "username": "lynnshenblog", 
+    "username": "lynnsl", 
     "articles_list": [
         "https://lynnshenblog.wordpress.com/2016/03/06/main-methods-for-sentiment-classification/", 
         "https://lynnshenblog.wordpress.com/2016/02/21/a-brief-introduction-of-sentiment-analysis/", 
         "https://lynnshenblog.wordpress.com/2016/02/02/a-brief-introduction-of-natural-language-processing/"
     ], 
-    "siteURL": "https://lynnshenblog.wordpress.com/", 
-    "id": 19, 
     "articles": [
         {
             "content": "In general, currently there are three main methods for sentiment classification, machine learning-based approach, lexicon-based approach, and a hybrid of machine learning-based and lexicon-based approach.Machine learning-based approach mainly contains supervised learning and unsupervised learning. For supervised learning, the main task is to train a classifier from training data with labels, and then the classifier is used to determine labels for new examples. The main difference between supervised and unsupervised learning is that no labels are provided for unsupervised learning, and thus the evaluation of a solution is not applicable.Lexicon-based approach contains dictionary-based approach and corpus-based approach. These two approaches determine the sentiment by checking the opinions words appeared.", 
             "url": "https://lynnshenblog.wordpress.com/2016/03/06/main-methods-for-sentiment-classification/", 
             "comments": [
                 {
-                    "content": "I notice that you mention the main difference of the supervised and unsupervised learning is whether there is a label. I think a label is easy for a \u201csupervisor\u201d to manage and classify the words, but at the same time, we will lose some information when labelling others (may be it\u2019s inevitable?). And could you give my the advantages and disadvantages of supervised learning and unsupervised learning?", 
-                    "to": "lynnshenblog", 
+                    "content": "I notice that you mention the main difference of the supervised and unsupervised learning is whether there is a label. I think a label is easy for a \u201csupervisor\u201d to manage and classify the words, but at the same time, we will lose some information when labelling others (may be it\u2019s inevitable?). Haha, and we all know that supervised and unsupervised learning have their own dis- or advantages, right?", 
+                    "to": "lynnsl", 
                     "from": "suegersu", 
-                    "time": "2016-03-28 @ 21:09"
+                    "time": "2016-03-31 @ 14:41"
                 }
             ], 
             "title": "Main Methods for Sentiment Classification"
@@ -1404,7 +1402,9 @@
             "comments": [], 
             "title": "A Brief Introduction of Natural Language Processing"
         }
-    ]
+    ], 
+    "siteURL": "https://lynnshenblog.wordpress.com/", 
+    "sid": "1155071688"
 }{
     "username": "geehublog", 
     "articles_list": [
@@ -1412,8 +1412,6 @@
         "https://geehublog.wordpress.com/2016/02/21/how-to-filter-critical-information-from-comments/", 
         "https://geehublog.wordpress.com/2016/01/31/everybody-like-horror-games/"
     ], 
-    "siteURL": "https://geehublog.wordpress.com/", 
-    "id": 20, 
     "articles": [
         {
             "content": "Sometimes people may find some mini-blogs have many forwards\u00a0(over ten thousand) though their contents are not that interesting. So, why are they so\u00a0hot?Let\u2019s look at the first\u00a0example:I used\u00a0WeiboEvents to analysis forwards\u00a0of this mini-blog, the result is:This source blog is forwarded averagely and widely.Also, it\u00a0is single-node-divergence, there are no explosive growth in the midway. That proves this mini-blog is a normal\u00a0news-blog.The second example:Unbelievable forwards! However, through analyzing, I found top 7 popular users \u00a0are all marketing accounts.Higher forwards means more prospective customers for them.\u00a02/3 users\u00a0re-tweeted that marketing accounts instead of the origin. These kinds of mini-blogs are successful viral marketing examples, but\u00a0blogs themselves are insignificant.", 
@@ -1446,7 +1444,9 @@
             ], 
             "title": "Everybody Likes Horror\u00a0Games"
         }
-    ]
+    ], 
+    "siteURL": "https://geehublog.wordpress.com/", 
+    "sid": "1155074579"
 }{
     "username": "zhuxuanfiona", 
     "articles_list": [
@@ -1454,8 +1454,6 @@
         "https://zhuxuanfiona.wordpress.com/2016/02/23/about-sentiment-analysis-and-opinion-mining/", 
         "https://zhuxuanfiona.wordpress.com/2016/02/02/rethinking-in-content-analysis-and-natural-language-processing/"
     ], 
-    "siteURL": "https://zhuxuanfiona.wordpress.com/", 
-    "id": 21, 
     "articles": [
         {
             "content": "Recently, I have learned definition of social network and why we need to analyze social network. Social network can be devided into explicit social network and implicit social network. We can use graph to represent relationship in social network. Graph has three important concepts: Degree\u00a0 centrality, betweenness centrality and closeness centrality. Betweenness centrality is used to measure the importance of an actor in a social network. There are two dimensions for information flow processes in a social network: transmission dimension and trajectory dimension. The transmission dimension distinguishes whether diffusion occurs via transfer or replication. The trajectory dimension concerns whether the traffic flows non-deterministically.We use graph clustering to detect communities in social network. In last semester, I have learned a lot of knowledge in machine learning, so in this course I will apply the knowledge to solve practical problems.", 
@@ -1502,15 +1500,11 @@
             ], 
             "title": "Rethinking in Content Analysis and Natural Language\u00a0Processing"
         }
-    ]
+    ], 
+    "siteURL": "https://zhuxuanfiona.wordpress.com/", 
+    "sid": "1155066960"
 }{
-    "username": null, 
-    "articles_list": [], 
-    "siteURL": "https://supergrubby.wordpress.com/", 
-    "id": 22, 
-    "articles": []
-}{
-    "username": "wuminblog", 
+    "username": "wumin2015", 
     "articles_list": [
         "https://wuminblog.wordpress.com/2016/03/02/social-network-analysis/", 
         "https://wuminblog.wordpress.com/2016/02/17/sentiment-analysis/", 
@@ -1520,8 +1514,6 @@
         "https://wuminblog.wordpress.com/2015/10/03/a-thoughtful-sheep/", 
         "https://wuminblog.wordpress.com/2015/09/17/hello-world/"
     ], 
-    "siteURL": "https://wuminblog.wordpress.com/", 
-    "id": 23, 
     "articles": [
         {
             "content": "With the rapid development of Internet technology, people generally have two social circles that is online and offline social circle. Online social network refers to relationships based on social networking. Nowadays, the network media such as BBS, weibo has become the main channel of information transmission, the analysis of the social network is very meaningful, we can use a graph to represent the social networks, uses nodes to represent the users, and the edges to show the relationship between the users. Through quantitative analysis of the network of centralities, closeness, degree, we can know who is the most influential person in the network and who is the most active person , all in all ,we will have a clear understanding of the whole network.", 
@@ -1529,31 +1521,31 @@
             "comments": [
                 {
                     "content": "You exactly cover the basic work flow on dealing with the SNA. Just doing a simple supplement for the offline SNA. While dealing the SA, you will find it is more complicated to cope with rather than online. I mean sometimes people\u2019s emotion and body language will more intuitive and sensitive to touch, when they want to convey an idea, or thinking. In such a case, it is never too cautious to handle with it\u2026", 
-                    "to": "wuminblog", 
+                    "to": "wumin2015", 
                     "from": "timosy09", 
                     "time": "2016-03-06 @ 20:47"
                 }, 
                 {
                     "content": "Social network analysis does provide lots of useful information. Except what you mentioned that it helps to find out  the most influential and active person in the network, it can also help reveal the most popular and hot topics among  particular social network, that is often used for commercial purposes.", 
-                    "to": "wuminblog", 
+                    "to": "wumin2015", 
                     "from": "hyingying226", 
                     "time": "2016-03-15 @ 15:14"
                 }, 
                 {
                     "content": "You sum up very well in this article. As you mentioned in the article, the analysis of the social network plays a very important role in today\u2019s life. Even the government can monitor the spread of bad public opinion through this kind of analysis.", 
-                    "to": "wuminblog", 
+                    "to": "wumin2015", 
                     "from": "aimee1116", 
                     "time": "2016-03-15 @ 15:37"
                 }, 
                 {
                     "content": "I agree that SNA is very useful, use a graph to represent the social networks and find out the relationship between different users. However, it reminds me of one problem, there are some fake accounts they follow a lot of users and have a lot of friends, but they never upload anything other than ads. They may also seems popular in our graph.", 
-                    "to": "wuminblog", 
+                    "to": "wumin2015", 
                     "from": "skycathy1314", 
                     "time": "2016-03-16 @ 19:35"
                 }, 
                 {
                     "content": "In my mind, the reason we need to model the social network into an intuitive model is that we need to represent the relationship for the machine to understand and to develop better algorithms. That is what we need to do in SNA, and that is why the social network graph becomes this looking today.", 
-                    "to": "wuminblog", 
+                    "to": "wumin2015", 
                     "from": "suegersu", 
                     "time": "2016-03-28 @ 21:28"
                 }
@@ -1566,25 +1558,25 @@
             "comments": [
                 {
                     "content": "I agree with you that human sentiment analysis is the key that opens the door to a new world of market research. But at the same time, I worry about the accuracy of sentiment analysis. For example, Taobao sellers would do everything they can to remove the negative feedback. So sentiment analysis of user\u2019s comment about products on Taobao can be incredible.", 
-                    "to": "wuminblog", 
+                    "to": "wumin2015", 
                     "from": "zhenyahk", 
                     "time": "2016-02-19 @ 17:02"
                 }, 
                 {
                     "content": "The product comparison and recommendation that you mentioned is interesting and popular, when we view and buy the products, every operation has been analysed and the website can give some feedback, it really caters to the needs of regular customers.", 
-                    "to": "wuminblog", 
+                    "to": "wumin2015", 
                     "from": "shenxiaoru", 
                     "time": "2016-03-04 @ 13:16"
                 }, 
                 {
                     "content": "I quite agree with your point of view. Sentiment analysis is a very useful study field. It can offer customers reference for decision making, so it means more opportunities for merchants since it can bring more customers and revenue. However, for more economic efforts, some merchants have some indecent behaviors, such as hiring water army to affect the accuracy of sentiment analysis.", 
-                    "to": "wuminblog", 
+                    "to": "wumin2015", 
                     "from": "sunyihan", 
                     "time": "2016-03-09 @ 16:11"
                 }, 
                 {
                     "content": "This is an important part of machine learning. And language processing is really hard to develop: it is limited by many facts: different expressing way in different places, the context in that situation, personal habit of expression, etc. It might be very easy to understand for a human being, but it will take the machine to learn for a long time. Still a long way to go, for machine learning, for AI.", 
-                    "to": "wuminblog", 
+                    "to": "wumin2015", 
                     "from": "suegersu", 
                     "time": "2016-03-10 @ 18:51"
                 }
@@ -1597,47 +1589,28 @@
             "comments": [
                 {
                     "content": "After reading author\u2019s blog, I think that your fourth opinion is the feature of content analysis, not the advantage. Moreover, you can add up some detailed example for your opinion, I think it would be much better.", 
-                    "to": "wuminblog", 
+                    "to": "wumin2015", 
                     "from": "luolinh", 
                     "time": "2016-02-24 @ 12:17"
                 }, 
                 {
                     "content": "As you mentioned, content analysis has various aspects in both traditional printed publications and new situations like broadcast media, live situations ,etc. Usually, content analysis includes six processes: selecting contents, uniting contents, preparing for coding, coding, counting & weighting and drawing the conclusions. For a media organisation, content analysis is often used for evaluating and improving the programmes.", 
-                    "to": "wuminblog", 
+                    "to": "wumin2015", 
                     "from": "rachelzcy", 
                     "time": "2016-03-16 @ 21:40"
                 }, 
                 {
                     "content": "Yes, just like you mentioned, content analysis is very useful to do varies studies. However, although it has so many advantages, it still has some limitations. For example, content analysis sometimes is extremely time consuming and it often disregards the context that produced the text, as well as the state of things after the text is produced. Thus, I think content analysis is a tool for us to do some research but we can not fully rely on it.", 
-                    "to": "wuminblog", 
+                    "to": "wumin2015", 
                     "from": "annie2020", 
                     "time": "2016-03-29 @ 14:14"
                 }
             ], 
             "title": "Advantages of Content\u00a0Ayalysis"
         }
-    ]
-}{
-    "username": "Social Media Analytics", 
-    "articles_list": [
-        "https://howardlyu.wordpress.com/2016/03/07/normalize-vs-non-normalize/", 
-        "https://howardlyu.wordpress.com/2016/02/23/collect-data-for-social-media-analysis/", 
-        "https://howardlyu.wordpress.com/2016/02/02/machine-learning-in-social-networking-analyzing/", 
-        "https://howardlyu.wordpress.com/2015/11/18/using-matrix-to-find-out-the-geodesics-of-a-network-with-weighted-edges/", 
-        "https://howardlyu.wordpress.com/2015/10/27/the-development-of-human-communication-models/", 
-        "https://howardlyu.wordpress.com/2015/10/07/the-evolving-cognition/", 
-        "https://howardlyu.wordpress.com/2015/09/23/not-just-facebook-and-twitter/"
     ], 
-    "siteURL": "https://howardlyu.wordpress.com/", 
-    "id": 24, 
-    "articles": [
-        {
-            "content": "Machine Learning technology can largely facilitate the process of Social Media Analysis. Generally, there are two kinds of Machine learning modes, Supervised Learning and Unsupervised Learning. In Supervised Learning, we first teach program how to process input data with specific examples, then program can handle new input data with patterns learnt previously. While in Unsupervised Learning, instead of teaching program how to deal with data, we let program find hidden patterns behind large amount of data itself, then we analyze these found patterns and try to find out useful information within them. Nowadays, there also emerges a new trend of Semi-Supervised Machine Learning, which combines all these advantages of both Supervised and Unsupervised Machine Learning.", 
-            "url": "https://howardlyu.wordpress.com/2016/02/02/machine-learning-in-social-networking-analyzing/", 
-            "comments": [], 
-            "title": "Machine Learning in Social Media\u00a0Analysis"
-        }
-    ]
+    "siteURL": "https://wuminblog.wordpress.com/", 
+    "sid": "1155073593"
 }{
     "username": "tidetam", 
     "articles_list": [
@@ -1645,8 +1618,6 @@
         "https://tidetam.wordpress.com/2016/02/24/what-can-we-do-with-nltk/", 
         "https://tidetam.wordpress.com/2016/02/02/what-should-we-learn-for-social-media-analytics/"
     ], 
-    "siteURL": "https://tidetam.wordpress.com/", 
-    "id": 25, 
     "articles": [
         {
             "content": "In last lecture, we learnt about social media analytics, the essence of social media is the connections between people. So we can naturally views such network as a graph. I recalled many concepts learnt in the data structure course, e.g. vertices, edges, density, in-degree, out-degree and closeness. These attributes of graph can reveal different meaning when the graph represents social media. And we can make use of these information.I have been interested in the theory\u00a0that\u00a0everyone and everything is six or fewer steps away, by way of introduction, from any other person in the world, called \u201cSix degrees of separation\u201c.To find the solution, if everyone is in a graph, we can use Dijkstra\u2019s algorithm to\u00a0find the shortest path in a graph. It makes use of the breadth-first search, and I think it interesting to see how it works.Here is the link to wikipedia\nDijkstra\u2019s algorithm", 
@@ -1679,7 +1650,9 @@
             "comments": [], 
             "title": "What should we learn for Social Media\u00a0Analytics"
         }
-    ]
+    ], 
+    "siteURL": "https://tidetam.wordpress.com/", 
+    "sid": "1155068631"
 }{
     "username": "huanglingyun", 
     "articles_list": [
@@ -1691,8 +1664,6 @@
         "https://huanglingyun.wordpress.com/2015/10/03/willing-to-be-information-cascaded/", 
         "https://huanglingyun.wordpress.com/2015/09/18/necessary-condition-for-small-world-phenomenon/"
     ], 
-    "siteURL": "http://huanglingyun.wordpress.com/", 
-    "id": 26, 
     "articles": [
         {
             "content": "In the last lecture, we reviewed something learned last semester about degree, centrality and closeness. The knowledge to basic construction of social network helps us to get a better understanding of social media analytic.Also, in this lecture, we comes to new concepts. The first one is trajectory including geodesics, walks, trails, and paths, which targets to concern whether the traffic flows non-deterministically. It means that in any trajectory, it always takes the best way such as the shortest distance called geodesic. Four different kinds of trajectories are classified according to their features. The second one is entropy centrality, which refers to a flow beginning at a specific node, the centrality of that node is related to the distribution of the probabilities that the flow stops at each of the nodes in the network.", 
@@ -1763,7 +1734,9 @@
             ], 
             "title": "Social Analytic & Machine\u00a0Learning"
         }
-    ]
+    ], 
+    "siteURL": "http://huanglingyun.wordpress.com/", 
+    "sid": "1155073592"
 }{
     "username": "wudi2016", 
     "articles_list": [
@@ -1771,8 +1744,6 @@
         "https://wudi2016.wordpress.com/2016/02/23/second-post-about-social-media-analytics/", 
         "https://wudi2016.wordpress.com/2016/02/02/first-post-about-social-media-analytics/"
     ], 
-    "siteURL": "https://wudi2016.wordpress.com/", 
-    "id": 27, 
     "articles": [
         {
             "content": "A sample usage at the real-life of Entropy Centrality.First, we define the phenomena to study, ranging from molecular systems composed by single/multiple/macro- molecules to ecological systems or social systems. Second, we collect several cases from literature. Next, we classify the cases in at least two different groups (e.g:active/nonactive). After that, we represent the interconnectivity of the discrete parts of the system as a graph or network. The Markov Chain theory is used to calculate the entropy of the system for nodes placed at different distances. Finally, we aim to both derive and validate a classification model using the entropy values as input variables and the classification of cases as the output variables.", 
@@ -1799,16 +1770,16 @@
             "comments": [], 
             "title": "First post about Social Media\u00a0Analytics"
         }
-    ]
+    ], 
+    "siteURL": "https://wudi2016.wordpress.com/", 
+    "sid": "1155066051"
 }{
-    "username": "IEMS5723  Social Media Analytics", 
+    "username": "timosy09", 
     "articles_list": [
         "https://timskyblog.wordpress.com/2016/03/03/can-sentiment-analysis-deal-with-irony/", 
         "https://timskyblog.wordpress.com/2016/02/18/an-understanding-of-nlp-in-sentiment-analysis/", 
         "https://timskyblog.wordpress.com/2016/01/27/its-still-a-long-way-to-convert-human-content-to-the-machine-analysis/"
     ], 
-    "siteURL": "https://timskyblog.wordpress.com/", 
-    "id": 28, 
     "articles": [
         {
             "content": "SMA equipped me with two main methods: machine learning used Naive Bayses and Lexicon-based approach used dictionary. However, they just generally describes the normal human\u2019s feeling on the option polarity and strength. And whether they can detect the sarcasm and irony still doubts me, since most of time they give just an opposite answer. One example see little John and his neighbor\u2019s talking:John: Uncle Mike, See what I have done a great painting in your fence\u2026Mike: Oh, my god, this is my newly brushed wall, you\u2019ve really done a great master pieces. Ask you mom to have a cup of tea with me, OK?John: Cool, that\u2019s fine\u2026Clearly, you might start to agree with me that both of algorithms cannot work. Worse still, they evaluate the dialogue as positive message. Therefore, an analysis on the various matter\u2019 correlation is needed, but tough. And any good idea on the comments will be highly appreciated.", 
@@ -1816,7 +1787,7 @@
             "comments": [
                 {
                     "content": "An interesting example! In my opinion, it is too difficulty to define \u201cIrony\u201d, let alone detect the irony.  What\u2019s more, even we can detect the irony, the accuracy may not be high. But I still hope the problem can be solved in the future.", 
-                    "to": "IEMS5723  Social Media Analytics", 
+                    "to": "timosy09", 
                     "from": "zhenyahk", 
                     "time": "2016-03-07 @ 16:05"
                 }
@@ -1835,29 +1806,29 @@
             "comments": [
                 {
                     "content": "I cannot agree with you more because I also think that the progress and achievement of this industry are exaggerated to some degree. The fact is that computers today still can\u2019t do what a 4-year-old child can do effortlessly even though they are becoming more and more clever. So let\u2019s wait and see what will happen in the near future.", 
-                    "to": "IEMS5723  Social Media Analytics", 
+                    "to": "timosy09", 
                     "from": "desihu", 
                     "time": "2016-01-28 @ 23:28"
                 }, 
                 {
                     "content": "I believe that your concerns about sentiment analysis and artificial intelligence development are correct. It is still a long way to go though the progress today in artificial intelligence are quite aggressive and great. You are not supposed to be too much pessimistic. The current robots are already quite intelligent. They just looks not such flexible but they have very smart brains. So, be positive, dude!", 
-                    "to": "IEMS5723  Social Media Analytics", 
+                    "to": "timosy09", 
                     "from": "huanglingyun", 
                     "time": "2016-02-11 @ 20:47"
                 }
             ], 
             "title": "It\u2019s Still a Long Way to Convert Human Content to the Machine\u00a0Analysis"
         }
-    ]
+    ], 
+    "siteURL": "https://timskyblog.wordpress.com/", 
+    "sid": "1155073578"
 }{
-    "username": "Lydia's blog", 
+    "username": "lydialiublog", 
     "articles_list": [
         "https://lydialiublog.wordpress.com/2016/02/24/post-3/", 
         "https://lydialiublog.wordpress.com/2016/02/23/chinese-sentence-tokenization/", 
         "https://lydialiublog.wordpress.com/2016/01/28/introduction-to-machine-learning/"
     ], 
-    "siteURL": "https://lydialiublog.wordpress.com/", 
-    "id": 29, 
     "articles": [
         {
             "content": "When we want to crawl data or extract information from a file, using the regular expression will help us finish the job quickly and smoothly. \u00a0However, there are maybe too many rules on using the regular expression, so it may be hard to understand all the rules for the beginners. So Here I \u00a0just provide some tricks to help beginner to use regular expression in python.Just use one lazy expression: .*?.*? means match any number of repetitions, in other words, this expression will match all the content in particular context.\u00a0For example, a.*?b will match all the content between the first letter a and the letter b. If the input is \u201casxcvvb\u201d, the output should be \u201csxcvv\u201d.Using regular expression in Python.Following is a python example shows how to use the .*? to extract the information we need:Note that even though above regular expression is using three .*?, only the .*? with () will be capture in python re package. Therefore, we can use the .*? to match some located information and use (.*?) to extract information we need\n\u00a0\n\u5171\u4eab\u6b64\u6587\u7ae0\uff1aTwitterFacebookGoogle\u8d5e\u8fc7\uff1a\u8d5e \u6b63\u5728\u52a0\u8f7d\u2026\u2026 ", 
@@ -1871,7 +1842,7 @@
             "comments": [
                 {
                     "content": "Thanks for the sharing of these two ways to tokenize the Chinese words which I haven\u2019t think about before. And because of your post, I began to search more about them which can also separate the traditional Chinese.", 
-                    "to": "Lydia's blog", 
+                    "to": "lydialiublog", 
                     "from": "ypzheng", 
                     "time": "2016-03-22 @ 16:07"
                 }
@@ -1884,16 +1855,16 @@
             "comments": [], 
             "title": "Introduction to machine\u00a0learning"
         }
-    ]
+    ], 
+    "siteURL": "https://lydialiublog.wordpress.com/", 
+    "sid": "1155068540"
 }{
-    "username": "liyaoblog", 
+    "username": "liyao6", 
     "articles_list": [
         "https://liyaoblog.wordpress.com/2016/03/04/blog-3/", 
         "https://liyaoblog.wordpress.com/2016/02/22/blog-2/", 
         "https://liyaoblog.wordpress.com/2016/01/31/my-first-blog/"
     ], 
-    "siteURL": "https://liyaoblog.wordpress.com/", 
-    "id": 30, 
     "articles": [
         {
             "content": "Apart from text classification, there are two methods, dictionary-based method and corpus-based method, for sentiment classification. Dictionary-based approach is that according to a dictionary of words with their sentiment orientation or polarity scores, you can assign an average sentiment score to the document which you want to analyze. Corpus-based approach extracts feature-level opinions and map them into a feature taxonomy for domain-oriented OM. What\u2019s more, I\u2019ve learned something about social network analysis. I know that we can use graphs to represent relationships between objects. And we can do social network analysis by degree, closeness, centrality. Meanwhile, I know how to calculate entropy centrality.", 
@@ -1901,19 +1872,19 @@
             "comments": [
                 {
                     "content": "Yes, features of a network can all be calculated, but I wonder what these data mean to a network. Would you show specific meaning of closeness, centrality?", 
-                    "to": "liyaoblog", 
+                    "to": "liyao6", 
                     "from": "thomasfengblog", 
                     "time": "2016-03-06 @ 12:23"
                 }, 
                 {
                     "content": "Talking about the centrality, I know there are a lot of approaches to analysis it, like degree centrality, potential centrality and entropy centrality. Different approach analysis different attribute of the relationship of social network.", 
-                    "to": "liyaoblog", 
+                    "to": "liyao6", 
                     "from": "shirley1023xys", 
                     "time": "2016-03-08 @ 12:02"
                 }, 
                 {
                     "content": "You introduce two methods to do sentiment classification except text classification. And some concepts can help us understand and do social analysis better, for example degree, closeness, centrality and so on.", 
-                    "to": "liyaoblog", 
+                    "to": "liyao6", 
                     "from": "aimee1116", 
                     "time": "2016-03-15 @ 16:47"
                 }
@@ -1926,7 +1897,7 @@
             "comments": [
                 {
                     "content": "When we carry out web clawing, we have to obey the rules and policies of the websites. Besides politeness, we should also notice another technical problem that don\u2019t hit one page too frequently. And we can use some exiting tools or we can develop our own tools to claw the websites.", 
-                    "to": "liyaoblog", 
+                    "to": "liyao6", 
                     "from": "hyingying226", 
                     "time": "2016-03-15 @ 15:26"
                 }
@@ -1939,16 +1910,18 @@
             "comments": [
                 {
                     "content": "I have read your three blogs and you are so nice to always share what you have learned from our lectures. Just like what you thought, i also think that NLP is a very interesting and attractive topic. NLP involves making the computer understand natural language input and generate natural language output, it is a process of understanding and generation. Although it seems just through several steps such as pre-processing, actually, every step is complicated and fulled with challenges.", 
-                    "to": "liyaoblog", 
+                    "to": "liyao6", 
                     "from": "sunyihan", 
                     "time": "2016-03-09 @ 15:13"
                 }
             ], 
             "title": "my first blog"
         }
-    ]
+    ], 
+    "siteURL": "https://liyaoblog.wordpress.com/", 
+    "sid": "1155073573"
 }{
-    "username": "zhucongying", 
+    "username": "rachelzcy", 
     "articles_list": [
         "https://zhucongying.wordpress.com/2016/03/05/sna-for-link-mining/", 
         "https://zhucongying.wordpress.com/2016/02/22/opinions-on-the-walking-dead/", 
@@ -1958,8 +1931,6 @@
         "https://zhucongying.wordpress.com/2015/10/06/three-member-group/", 
         "https://zhucongying.wordpress.com/2015/09/20/are-you-the-lone-ranger/"
     ], 
-    "siteURL": "https://zhucongying.wordpress.com/", 
-    "id": 31, 
     "articles": [
         {
             "content": "Link Mining is a new research area in Data Ming which is entwined with graph mining and SNA based on graph theory.A social network is the fundamental unit in link mining, consists of some objects\u00a0and links. It can formally be notated as: , where \u00a0is a set of objects and \u00a0is a set of links. Each object(node) represents a data instance and each link means a certain relation between instances.Take the Link-Based Object Ranking for the example. This ranking algorithm sorts nodes in the graph via measuring the importance of each node, referred to as \u201ccentrality\u201d. For local measures, degree centrality is common used while eigenvector/power centralities are usually used for global measures.", 
@@ -1967,25 +1938,25 @@
             "comments": [
                 {
                     "content": "Why centrality is commonly used for local cases, comparing to eigenvector?", 
-                    "to": "zhucongying", 
+                    "to": "rachelzcy", 
                     "from": "thomasfengblog", 
                     "time": "March 6, 2016 at 3:44 am"
                 }, 
                 {
                     "content": "Traditional data mining focuses on \u201cflat\u201d or \u201cisolated\u201d data in which each data object is represented as an independent attribute vector. However, many real-world data sets are inter-connected, much richer in structure, involving objects of heterogeneous types and complex links. Hence, the study of link mining will have a high impact in various important applications such as Web and text mining, social network analysis. This is a very new field even I cannot search much news on the Internet. In lecture 8, Entropy Centrality may be used in the research, hope can see some future study of Link Mining.", 
-                    "to": "zhucongying", 
+                    "to": "rachelzcy", 
                     "from": "yoyo", 
                     "time": "March 12, 2016 at 7:59 am"
                 }, 
                 {
                     "content": "Learned a new method in SNA, Link Mining. Links among the objects may demonstrate certain patterns, which can be helpful for many data mining tasks and are usually hard to capture with traditional statistical models.  It\u2019s quite a new area and it can help mine the relationship among several objects. I think this approach should be useful for E-commerce.", 
-                    "to": "zhucongying", 
+                    "to": "rachelzcy", 
                     "from": "wangyifei", 
                     "time": "March 27, 2016 at 5:49 am"
                 }, 
                 {
                     "content": "I am also interested in pagerank algorithm. The more iterations we set, the more exact value in convergence. There are many companies make their efforts trying to optimize the search function in web, whose fundamental concept is page rank. Thank you for sharing.", 
-                    "to": "zhucongying", 
+                    "to": "rachelzcy", 
                     "from": "yangjian0404", 
                     "time": "March 27, 2016 at 2:46 pm"
                 }
@@ -1998,37 +1969,37 @@
             "comments": [
                 {
                     "content": "What a detailed application about the course knowledge point\u2026well done.", 
-                    "to": "zhucongying", 
+                    "to": "rachelzcy", 
                     "from": "luolinh", 
                     "time": "February 23, 2016 at 1:47 pm"
                 }, 
                 {
                     "content": "Ha! This blog can help us to fully understand the knowledge and do some exercise. We can use the existing  corpus in Python to do the classification. Both the positive and negative opinion that we hold can help the relevant people to do some modifications to the entity.", 
-                    "to": "zhucongying", 
+                    "to": "rachelzcy", 
                     "from": "annie2020", 
                     "time": "February 29, 2016 at 2:28 pm"
                 }, 
                 {
                     "content": "Good instance for us to understand the course\u2019s knowledge. After the sentiment words is found from the opinion, then we can do sentiment analysis and summary the orientation score to predict the opinion of holder is positive or negative. Which is quite useful in social network analysis.", 
-                    "to": "zhucongying", 
+                    "to": "rachelzcy", 
                     "from": "khwong", 
                     "time": "March 8, 2016 at 8:30 am"
                 }, 
                 {
                     "content": "Yes, it is a good example which describe the concept of social media analysis easily and better to understand. Digging the object, finding the comments of it and analyze the sentiment according to the specific words. Plus, \u201cThere are a thousand Hamlets in a thousand people\u2019s eyes\u201d. I really think \u201cwalking dead\u201d is horrible.", 
-                    "to": "zhucongying", 
+                    "to": "rachelzcy", 
                     "from": "ypzheng", 
                     "time": "March 23, 2016 at 3:45 am"
                 }, 
                 {
                     "content": "Intuitively, yes, one audience gave a positive comment on the drama Walking Dead, you know this conclusion so directly. And now, imagine that you were a machine, you are trying to learn the human language and what on the earth a person mean by saying \u201cawesome\u201d . Most of the time, \u201cawesome\u201d gives positive information, but what if someone likes to use irony and there are a lot of comments about the drama. By then, what should a machine learn?", 
-                    "to": "zhucongying", 
+                    "to": "rachelzcy", 
                     "from": "suegersu", 
                     "time": "March 28, 2016 at 12:55 pm"
                 }, 
                 {
                     "content": "Very detailed instance of machine learning and splitting sentences into attributes seems a clear way to show us how machine learning process works. I\u2019m wondering how could the machine distinguish words into positive part and negative one, I mean, for example, how does it know \u2018have re-watched 6 times\u2019 is a positive meaning in storyline or general aspect. What\u2019s the principle of it? Furthermore, looking forward to the following step of it, such as, positive and negative scoring system.", 
-                    "to": "zhucongying", 
+                    "to": "rachelzcy", 
                     "from": "huangdanlei", 
                     "time": "March 29, 2016 at 1:36 pm"
                 }
@@ -2041,7 +2012,9 @@
             "comments": [], 
             "title": "Similarity of Documents"
         }
-    ]
+    ], 
+    "siteURL": "https://zhucongying.wordpress.com/", 
+    "sid": "1155071415"
 }{
     "username": "tonyyipblog", 
     "articles_list": [
@@ -2049,13 +2022,18 @@
         "https://tonyyipblog.wordpress.com/2016/02/23/naive-bayes-text-classification/", 
         "https://tonyyipblog.wordpress.com/2016/01/30/k-mean-clustering/"
     ], 
-    "siteURL": "https://tonyyipblog.wordpress.com/", 
-    "id": 32, 
     "articles": [
         {
             "content": "Centrality is the identification of importance of vertices in a graph or social network. There are various kinds of centrality:In-degree/Out-degree centrality measures the importance of vertices simply based on their in-degree/out-degree. An important application of in-degree centrality is to measure the truthfulness of a webpage. (PageRank)Closeness centrality of a vertex is the inverse of the summation of shortest distance from this vertex to all other vertices. It can be used in genealogy construction.Entropy centrality is characterized by path-based transfer flows. It measures the distribution of the probabilities that the flow stops at each of the vertices in the network. Centrality is low when the choices of flows are highly constrained and vice versa.", 
             "url": "https://tonyyipblog.wordpress.com/2016/03/08/centrality/", 
-            "comments": [], 
+            "comments": [
+                {
+                    "content": "It seems like you\u2019ve comprehended the meaning of centrality in social media analysis and if you have interest in how to calculate the degree or more centrality of nodes in social network you\u2019re recommended to read notes of \u2018social network analysis\u2019 at last semester. They are included more measurements of social network and their practical meanings. For example, betweenness centrality of nodes means how important it is in the whole network.", 
+                    "to": "tonyyipblog", 
+                    "from": "huangdanlei", 
+                    "time": "March 29, 2016 at 1:57 pm"
+                }
+            ], 
             "title": "Centrality"
         }, 
         {
@@ -2084,7 +2062,9 @@
             ], 
             "title": "K-Mean Clustering"
         }
-    ]
+    ], 
+    "siteURL": "https://tonyyipblog.wordpress.com/", 
+    "sid": "1155068676"
 }{
     "username": "shinnqy", 
     "articles_list": [
@@ -2096,8 +2076,6 @@
         "https://shinnqy.wordpress.com/2015/10/06/the-mooc-moment-and-the-end-of-reform/", 
         "https://shinnqy.wordpress.com/2015/09/17/hello-world/"
     ], 
-    "siteURL": "https://shinnqy.wordpress.com/", 
-    "id": 33, 
     "articles": [
         {
             "content": "Social networking is now a hot topic on the Internet, from facebook, twitter to foursquare, tumbrl. Social networking has always been innovated. In China, there are Renren, Weibo, Roadside, etc. a lot of social networking sites. What is different from other countries is that China\u2019s social network is the world of Internet Gangster. In the fierce competition, the three giants of the era of social networks is slowly formed \u2013 Tencent, RenRen, Sina. Not only do they have to face the competition of encroaching each other, also face the challenge of emerging social networking sites.", 
@@ -2162,7 +2140,9 @@
             ], 
             "title": "What can enterprise learn from analysis of social\u00a0media?"
         }
-    ]
+    ], 
+    "siteURL": "https://shinnqy.wordpress.com/", 
+    "sid": "1155065988"
 }{
     "username": "ypzheng", 
     "articles_list": [
@@ -2174,8 +2154,6 @@
         "https://ypzheng.wordpress.com/2015/10/03/will-you-be-influenced-by-others/", 
         "https://ypzheng.wordpress.com/2015/09/22/social-networks-in-the-communiation-field/"
     ], 
-    "siteURL": "https://ypzheng.wordpress.com/", 
-    "id": 34, 
     "articles": [
         {
             "content": "In the last two lectures, professors has taught us some concepts about social network analysis which is related to the contents of last term, including the vertices, edges, centrality, closeness and so on.Besides, we also learned the ways to help to do the clustering,like MCL(Markov Cluster Algorithm). As we know,on the graph, random walks \u00a0will infrequently go from one cluster to another.MCL\u00a0algorithm \u00a0is based on this. It calculates the random walks within a graph by alternation of two operations called expansion and inflation.The second\u00a0algorithm to do the clustering is the Community Detection resulted in\u00a0Entropy Centrality. For further learning this part of knowledge, please focus on the nest lectures professor will give us and take additional references.", 
@@ -2234,7 +2212,9 @@
             ], 
             "title": "social media analytics"
         }
-    ]
+    ], 
+    "siteURL": "https://ypzheng.wordpress.com/", 
+    "sid": "1155068711"
 }{
     "username": "ryanxzs", 
     "articles_list": [
@@ -2242,8 +2222,6 @@
         "https://ryanxzs.wordpress.com/2016/02/23/sentiment-analysis-and-human-emotion/", 
         "https://ryanxzs.wordpress.com/2016/02/02/supervised-and-unsupervised-learning/"
     ], 
-    "siteURL": "https://ryanxzs.wordpress.com/", 
-    "id": 35, 
     "articles": [
         {
             "content": "As we have learnt, Social network actually is a kind of community, which can be described as graphs. We want to find different communities in Social Network, and community detection have had a great contribution in this area.I have learnt spectral clustering which is one of \u00a0community detection methods. In fact, this method are familiar with \u00a0k-means clustering. However spectral clustering have the Laplacian processing before clustering, which is used to reduce dimensions.Teacher mention MCL method in class. It sounds really interesting and I never heard about it. I can\u2019t wait to learn and apply!", 
@@ -2282,23 +2260,11 @@
             "comments": [], 
             "title": "Supervised and unsupervised\u00a0learning"
         }
-    ]
-}{
-    "username": "aimee1116", 
-    "articles_list": [
-        "https://aimee1116.wordpress.com/2016/03/08/detect-clusters-in-online-communities/", 
-        "https://aimee1116.wordpress.com/2016/02/21/sentiment-analysis/", 
-        "https://aimee1116.wordpress.com/2016/02/02/learn-more-from-the-social-media-analytics/", 
-        "https://aimee1116.wordpress.com/2015/11/18/how-to-get-along-with-different-people%ef%bc%9f/", 
-        "https://aimee1116.wordpress.com/2015/10/28/how-to-communicate-with-others-more-efficiently%ef%bc%9f/", 
-        "https://aimee1116.wordpress.com/2015/10/06/why-do-you-often-follow-other-peoples-ideas/", 
-        "https://aimee1116.wordpress.com/2015/09/22/the-influence-factors-of-stars-microblog-cosmetic-advertisements-2/"
     ], 
-    "siteURL": "https://aimee1116.wordpress.com/", 
-    "id": 36, 
-    "articles": []
+    "siteURL": "https://ryanxzs.wordpress.com/", 
+    "sid": "1155072133"
 }{
-    "username": "", 
+    "username": "chenyouyang2", 
     "articles_list": [
         "https://cyysite.wordpress.com/2016/03/08/r-and-python-the-general-numbers/", 
         "https://cyysite.wordpress.com/2016/02/21/framework-of-sentiment-analysis-on-social-media-data/", 
@@ -2308,8 +2274,6 @@
         "https://cyysite.wordpress.com/2015/10/06/city-in-the-future-facing-the-technology-and-sciencehow-o2o-changes-your-lifestyle/", 
         "https://cyysite.wordpress.com/2015/09/22/the-high-investment-of-bat-in-mobile-internet-up-to-600-billion/"
     ], 
-    "siteURL": "https://cyysite.wordpress.com/", 
-    "id": 37, 
     "articles": [
         {
             "content": "On the web, you can find many numbers comparing the adoption and popularity of R and Python. While these figures often give a good indication on how these two languages are evolving in the overall ecosystem of computer science, it\u2019s hard to compare them side-by-side.The main reason for this is that you will find R only in a data science environment; As a general purpose language, Python, on the other hand, is widely used in many fields, such as web development. This often biases the ranking results in favor of Python, while the salaries are affected somewhat negatively.R is mainly used when the data analysis task requires standalone computing or analysis on individual servers. It\u2019s great for exploratory work, and it\u2019s handy for almost any type of data analysis because of the huge number of packages.You can use Python when your data analysis tasks need to be integrated with web apps or if statistics code needs to be incorporated into a production database. Being a fully fledged programming language, it\u2019s a great tool to implement algorithms for production use.", 
@@ -2317,7 +2281,7 @@
             "comments": [
                 {
                     "content": "I think both R and Python are very useful languages. R is most used in the environment that related to the data science, while Python is widely used in backend development.", 
-                    "to": "", 
+                    "to": "chenyouyang2", 
                     "from": "ctksite", 
                     "time": "2016-03-23 @ 10:34"
                 }
@@ -2330,7 +2294,7 @@
             "comments": [
                 {
                     "content": "I think, for me, data collection and preprocessing is the most difficult step among these three steps of sentiment analysis. Sometimes if the social media do not provide APIs, we need to collet the data by using third-party crawling plugins, which makes me feel inconvenient.", 
-                    "to": "", 
+                    "to": "chenyouyang2", 
                     "from": "annie2020", 
                     "time": "2016-03-01 @ 22:15"
                 }
@@ -2343,14 +2307,16 @@
             "comments": [
                 {
                     "content": "To make the assessment is a good way to evaluate whether the product is worthwhile to develop and also can do the prediction. To do the analysis, as you mentioned as well, we need to build up the dictionary according to the specific words and analyze the contents we want to do the research, finally do the classification to get the result.", 
-                    "to": "", 
+                    "to": "chenyouyang2", 
                     "from": "ypzheng", 
                     "time": "2016-03-22 @ 16:29"
                 }
             ], 
             "title": "Performance assessment"
         }
-    ]
+    ], 
+    "siteURL": "https://cyysite.wordpress.com/", 
+    "sid": "1155066922"
 }{
     "username": "ctksite", 
     "articles_list": [
@@ -2362,8 +2328,6 @@
         "https://ctksite.wordpress.com/2015/10/05/to-be-a-rationalsober-person/", 
         "https://ctksite.wordpress.com/2015/09/21/six-degrees-of-separation/"
     ], 
-    "siteURL": "http://ctksite.wordpress.com", 
-    "id": 38, 
     "articles": [
         {
             "content": "Sentiment analysis is that using NLP, statistics, or machine learning methods to extract , identify or otherwise characterize the sentiment content of a text unit. It sometimes refers to as opinion mining.Existing approaches to sentiment analysis can be grouped into three main categories: knowledge-based techniques, statistical methods, and hybrid approach.Knowledge-based techniques classify text by affect categories based on the presence of unambiguous affect words such as happy, sad , afraid and bored. Some knowledge bases not only list obvious affect words, but also assign arbitrary words a probable \u201caffinity\u201d to particular emotions. Statistical methods classify based on machine learning approaches such as decision tree classifier,support vector machines,neural network and naive bayes. Hybrid approaches leverage on both machine learning and elements from knowledge representation in order to detect \u00a0semantics \u00a0that are expressed in a subtle manner.", 
@@ -2416,9 +2380,11 @@
             ], 
             "title": "Data Mining vs Social Media\u00a0Analytics"
         }
-    ]
+    ], 
+    "siteURL": "http://ctksite.wordpress.com", 
+    "sid": "1155066307"
 }{
-    "username": "Jia Shuang ' s blog", 
+    "username": "jiashuang", 
     "articles_list": [
         "https://jiashuang.wordpress.com/2016/03/06/comparison-between-lexicon-based-and-machine-learning-approach/", 
         "https://jiashuang.wordpress.com/2016/02/20/sentiment-analysis-and-opinion-mining/", 
@@ -2428,8 +2394,6 @@
         "https://jiashuang.wordpress.com/2015/10/06/show-is-a-good-or-bad-thing-in-social-psychology-perspective%ef%bc%9f/", 
         "https://jiashuang.wordpress.com/2015/09/22/small-worlds-making-sns-successful/"
     ], 
-    "siteURL": "https://jiashuang.wordpress.com/", 
-    "id": 39, 
     "articles": [
         {
             "content": "Through the lectures, I learned sentiment classification techniques and there are differences between two main methods.1.Lexicon-based approachAdvantages: It can reflect the characteristics of the unstructured text data. Nowadays, the research of this approach are more conducive to mining text internal relations.Disadvantages: Excessively rely on emotional dictionary. Such as Weibo, it often appears new \u00a0words or deformation words. When there is no definition of these words, this method cannot calculate.2.Machine learning approachAdvantages: It overcomes the influence of the unknown words and easily converts text into structured data for processing. After classification, it can select features according to the needs through\u00a0classifier structured by the training set.Disadvantages: it views all the characters as isolated elements, and cannot reflect the text connection and structure. Because of the text diversification, it will bring a burden to calculate, as well as\u00a0affecting the efficiency.", 
@@ -2437,25 +2401,25 @@
             "comments": [
                 {
                     "content": "This blog provides a nice comparison between lexicon-based and machine learning approach. It clearly points out the advantages and disadvantages of the two approached.  I think in different situation, different approach should be applied.", 
-                    "to": "Jia Shuang ' s blog", 
+                    "to": "jiashuang", 
                     "from": "zhenyahk", 
                     "time": "2016-03-07 @ 16:45"
                 }, 
                 {
                     "content": "The comparison of Lexicon-based approach and Machine learning approach really helps me understand each method\u2019s advantages and disadvantages.  And as for machine learning approach, there are three usual algorithms : Naive Bayes(NB), Support Vector Machines(SVM) and Maximum Entropy(ME). I think whether the characters can be classified accurately has great influence in the results.", 
-                    "to": "Jia Shuang ' s blog", 
+                    "to": "jiashuang", 
                     "from": "wangyifei", 
                     "time": "2016-03-17 @ 18:12"
                 }, 
                 {
                     "content": "This blog post helps us better understand the difference between lexicon-based approach and the machine learning approach. So that we can choose different methods for different purpose. I think one more disadvantage of the lexicon-based approach is that it need a perfect and complete lexicon to perform well. It is very difficult to achieve. Can we use the machine learning  method to get a perfect lexicon? Maybe it can be the best solution.", 
-                    "to": "Jia Shuang ' s blog", 
+                    "to": "jiashuang", 
                     "from": "scarletthui", 
                     "time": "2016-03-25 @ 15:03"
                 }, 
                 {
                     "content": "You help us summary the method of classification, if I want to sketch the main answer of how to classify, I will scan your blog and find the answer directly, Ahh.", 
-                    "to": "Jia Shuang ' s blog", 
+                    "to": "jiashuang", 
                     "from": "yangjian0404", 
                     "time": "2016-03-27 @ 21:59"
                 }
@@ -2468,25 +2432,25 @@
             "comments": [
                 {
                     "content": "Jia Shuang, I suggest that the aspect extractor should come before the sentiment classifier, in your diagram. That sequence would indicate finer-grained, aspect-level sentiment resolution, as you describe in your second paragraph. But a further step is to extract the opinion holder, distinguished from the opinion object. \u201cI think Taylor Swift is a good singer\u201d indicates an opinion holder \u2014 whoever I is \u2014 where an aspect, Taylor Swift\u2019s singing is the object.", 
-                    "to": "Jia Shuang ' s blog", 
+                    "to": "jiashuang", 
                     "from": "Seth Grimes", 
                     "time": "2016-02-22 @ 00:29"
                 }, 
                 {
                     "content": "For a real case, it is not easy to perform an accurate aspect extraction, especially when the text is about some specific professional area. So I agree with you that we need to combine with the whole context to determine which area the text is talking about. And then we can choose the appropriate lexicon to better extract the aspects/attributes. I think it may help us get a better sentiment analysis.", 
-                    "to": "Jia Shuang ' s blog", 
+                    "to": "jiashuang", 
                     "from": "scarletthui", 
                     "time": "2016-03-25 @ 15:29"
                 }, 
                 {
                     "content": "As you said, in order to do the sentiment analysis, some steps such as aspect extractor and sentiment classifier are quite important. The accuracy of the two steps determines the actual polarity of the sentence or paragraph. Also, different areas have different context and specific phrases. So for certain area, having a complete and professional dictionary is also a key factor for sentiment analysis. And we need to consider the context for certain complex sentences.", 
-                    "to": "Jia Shuang ' s blog", 
+                    "to": "jiashuang", 
                     "from": "wangyifei", 
                     "time": "2016-03-27 @ 13:16"
                 }, 
                 {
                     "content": "I agree with you that sentiment analysis and opinion mining is indeed interesting but tricky. While i\u2019m analyzing the blog comments for our project, i found that most students would show their agreement or disagreement at very first, and then use some adversative conjunctions such as \u2018but\u2019, \u2018however\u2019,etc. to present some opinion which is  opposite or conflict with the author\u2019s opinion. So while we are conducting sentiment analysis, what we should pay attention to is how to build the dictionary and define the classifier to extract the emotion accurately.", 
-                    "to": "Jia Shuang ' s blog", 
+                    "to": "jiashuang", 
                     "from": "yanxinwei2015", 
                     "time": "2016-03-28 @ 22:01"
                 }
@@ -2499,34 +2463,36 @@
             "comments": [
                 {
                     "content": "Great example! It really indicates that the NLP languageis quite intelligent since it can recognize which meaning it should go through. People try to understand how to use the different meanings of this word by studying it, so does machine. That is why we say it intelligent and smart, which can be compared with human!", 
-                    "to": "Jia Shuang ' s blog", 
+                    "to": "jiashuang", 
                     "from": "huanglingyun", 
                     "time": "2016-02-11 @ 20:56"
                 }, 
                 {
                     "content": "I think it is very difficult to distinguish words under different situations.  For example of \u2018I miss you\u2019, sometimes I just said \u2018I am thinking about you\u2019 to my friend but sometime it equals to \u2018I Love you\u2019. NLP is just one problem to teach machines to understand human words,  but our languages especially Chinese have many complex grammar which hard to discriminate. Another problem is that we need some professional dictionary to analysis some special topics. It has a long way to go to build the NLP.", 
-                    "to": "Jia Shuang ' s blog", 
+                    "to": "jiashuang", 
                     "from": "yoyo", 
                     "time": "2016-03-12 @ 16:54"
                 }, 
                 {
                     "content": "I think NLP in the social media analysis can become powerful in the future. In the fiction television play called \u201cBlack Mirror\u201d, it uses the NLP technology to analysis the posts on the character\u2019s social network site. And then the computer can know the man\u2019s feeling and attitudes towards different things. The machine can imitate the man\u2019s tone. Even his wife cannot tell the difference. Although it is just fictional, it is quite possible for the NLP technology in the future.", 
-                    "to": "Jia Shuang ' s blog", 
+                    "to": "jiashuang", 
                     "from": "scarletthui", 
                     "time": "2016-03-25 @ 16:15"
                 }, 
                 {
                     "content": "Good example! Words are meaningful, especially like Chinese words, even human sometimes feel difficult to identify the exact meaning of a word in different sentence and situation. Therefore, this might be the most difficult part for the research of NLP. In order to make breakthrough, we should pay effort to train the machine and make the NLP more intelligent to identify different meaning according to the situation or emotion,etc.", 
-                    "to": "Jia Shuang ' s blog", 
+                    "to": "jiashuang", 
                     "from": "yanxinwei2015", 
                     "time": "2016-03-28 @ 22:33"
                 }
             ], 
             "title": "Social media analytics about\u00a0NLP"
         }
-    ]
+    ], 
+    "siteURL": "https://jiashuang.wordpress.com/", 
+    "sid": "1155066851"
 }{
-    "username": "Alice Blog", 
+    "username": "wangyifei", 
     "articles_list": [
         "https://wangyifeiblog.wordpress.com/2016/03/05/sentiment-analysis/", 
         "https://wangyifeiblog.wordpress.com/2016/02/23/data-mining-on-user-generated-content/", 
@@ -2536,8 +2502,6 @@
         "https://wangyifeiblog.wordpress.com/2015/10/06/how-social-network-influence-peoples-life/", 
         "https://wangyifeiblog.wordpress.com/2015/09/22/social-networks-make-the-world-smaller/"
     ], 
-    "siteURL": "https://wangyifeiblog.wordpress.com", 
-    "id": 40, 
     "articles": [
         {
             "content": "Sentiment Analysis, is the process of analysis, processing, induction and reasoning of the subjective text with emotional tendency.Now many people like to share their daily life or expose their thoughts on social media applications such as Facebook, Twitter, Wechat etc., making it possible to conduct sentiment analysis on the huge amount of personal data. There is already an application called Target Sentiment on Twitter, which can classify the tweets into different sentiment class according to the specified requirements. One example is that using the sentiment analysis on twitter user to predict the stock trend. The results can help to guide how to invest.I think sentiment analysis perhaps can help social platforms earn more money by selling the data.", 
@@ -2545,19 +2509,19 @@
             "comments": [
                 {
                     "content": "Your blog is talking about the Twitter Mood which Rosanna introduced on the lecture. I am interested in that Target Sentiment is an existed application on Twitter website? After studying this course, we all know how to develop python software to do analysis but if Twitter has its own application will be much easy to use directly. Another thing,  Target Sentiment can be used in the stock market, and it can be also used in Movie Box Office and other business.", 
-                    "to": "Alice Blog", 
+                    "to": "wangyifei", 
                     "from": "yoyo", 
                     "time": "2016-03-13 @ 13:28"
                 }, 
                 {
                     "content": "I think it is true that data can be valuable in many areas. The user preference and habits can be analysis from their records or behaviors. However it may enroll legal issues, the privacy of users must be well protected.", 
-                    "to": "Alice Blog", 
+                    "to": "wangyifei", 
                     "from": "jiangyuheng", 
                     "time": "2016-03-26 @ 13:20"
                 }, 
                 {
                     "content": "I cannot agree you more. The data extracted from sentiment analysis does can be sold out to make commercial utilization. There are so many data companies in China, grasping the data in every industry market. If the data can be used because of their relationship and mining the special value, what will happen to the future life? I think data can make a different for the world.", 
-                    "to": "Alice Blog", 
+                    "to": "wangyifei", 
                     "from": "yangjian0404", 
                     "time": "2016-03-27 @ 22:16"
                 }
@@ -2570,25 +2534,25 @@
             "comments": [
                 {
                     "content": "Using users\u2019 provided content to analysis and building networks is a obvious way to find information around people connected. Base on graph theory, we can find important message or important people on the built networks. We can also see the relationship between people on the graph too", 
-                    "to": "Alice Blog", 
+                    "to": "wangyifei", 
                     "from": "tomtong1106", 
                     "time": "2016-03-01 @ 10:20"
                 }, 
                 {
                     "content": "It is true that we face so many information everyday. There are so many people on the Internet and so many user generated content. How to get the useful information from the massive data is our work. And now, we have a lot of tools to mining and analysis data which can meet our requirements.", 
-                    "to": "Alice Blog", 
+                    "to": "wangyifei", 
                     "from": "aimee1116", 
                     "time": "2016-03-15 @ 21:12"
                 }, 
                 {
                     "content": "Indeed, people can not live without network now so that it will cause a large number of user data. Depending on these data, we are able to do a lot of research, such as data mining, big data, cloud computing, etc. As you said, we can predict and figure out lots of information through user data.So, it is an interdependent relationship between the user and network.", 
-                    "to": "Alice Blog", 
+                    "to": "wangyifei", 
                     "from": "jiashuang", 
                     "time": "2016-03-23 @ 20:31"
                 }, 
                 {
                     "content": "I know you have another named Data mining. I think it is really helpful to build up a relationship in these two courses. This course can make a better understand for you because it is much practical.", 
-                    "to": "Alice Blog", 
+                    "to": "wangyifei", 
                     "from": "yangjian0404", 
                     "time": "2016-03-27 @ 22:36"
                 }
@@ -2601,33 +2565,22 @@
             "comments": [
                 {
                     "content": "Wow, this is amazing and interesting! In the era of big data, we should try to dig out the laws and potential value behind the mass data, especially the data from social networking platforms as you mentioned. Predicting the box office is exactly a very good example to show the function and impact of social media analysis. But while we are doing analysis, what we should pay attention to is whether the results is a coincidence, so we should do more research to verify the results.", 
-                    "to": "Alice Blog", 
+                    "to": "wangyifei", 
                     "from": "yanxinwei2015", 
                     "time": "2016-03-21 @ 21:30"
                 }, 
                 {
                     "content": "Thank you for your sharing. Actually, what you introduced reminded me of the prediction of Oscar Award several days ago. Best actor is LEONARDO DICAPRIO which was predicted correct by \u201cXiaobin\u201d from Microsoft. In this big data era, using social media as well as the data mining techniques, I believe that we can apply these predictions on much more meaningful applications.", 
-                    "to": "Alice Blog", 
+                    "to": "wangyifei", 
                     "from": "rachelzcy", 
                     "time": "2016-03-22 @ 16:03"
                 }
             ], 
             "title": "Using social media to predict the\u00a0box-office"
         }
-    ]
-}{
-    "username": "About Social Networking -Madrid Yan", 
-    "articles_list": [
-        "https://yanxinweiblog.wordpress.com/2016/03/08/the-overview-of-sentiment-classification/", 
-        "https://yanxinweiblog.wordpress.com/2016/02/23/some-thoughts-on-sentiment-analysis-and-opinion-mining/", 
-        "https://yanxinweiblog.wordpress.com/2016/02/02/the-application-of-normative-comparison/", 
-        "https://yanxinweiblog.wordpress.com/2015/11/16/how-to-improve-the-pagerank/", 
-        "https://yanxinweiblog.wordpress.com/2015/10/27/stop-the-spread-of-cyber-bullying/", 
-        "https://yanxinweiblog.wordpress.com/2015/10/05/get-out-of-the-herding-trap-of-online-shopping/"
     ], 
-    "siteURL": "https://yanxinweiblog.wordpress.com", 
-    "id": 41, 
-    "articles": []
+    "siteURL": "https://wangyifeiblog.wordpress.com", 
+    "sid": "1155066103"
 }{
     "username": "ninjiazhao", 
     "articles_list": [
@@ -2639,8 +2592,6 @@
         "https://ninjiazhao.wordpress.com/2015/11/04/clustering-in-social-network/", 
         "https://ninjiazhao.wordpress.com/2015/09/30/what-will-the-mooc-look-like-in-the-future/"
     ], 
-    "siteURL": "https://ninjiazhao.wordpress.com/", 
-    "id": 42, 
     "articles": [
         {
             "content": "When we use gephi to do the clustering, we could see that there is one famous clustering method that we are actually not familiar with it, called Markov Cluster Algorithm (MCL). So what is MCL. Well,\u00a0 as we all know, we could divide machine learning into four classes, supervised learning, unsupervised learning, semi-supervised learning and reinforcement learning. So MCL,\u00a0 is actually a fast unsupervised clustering algorithm, which mainly based on Random Walk and Markov chain. The main idea of MCL is to random walk one point, and then when the cluster become dense, the walking point would not leave the cluster easily. So the first part of MCL is the ordinary random walk, the second part of MCL is actually based on the characteristics of no following effects in the Markov Chain. Backwardly, MCL is actually amending one transition probability matrix performing Expansion and Inflation. The main focus of these two performing is to make the neighbor points connect to each other stronger, thus to form a cluster.", 
@@ -2679,16 +2630,16 @@
             ], 
             "title": "One Con of Sentiment Analysis"
         }
-    ]
+    ], 
+    "siteURL": "https://ninjiazhao.wordpress.com/", 
+    "sid": "1155074696"
 }{
-    "username": "khwongsite", 
+    "username": "khwong", 
     "articles_list": [
         "https://khwongsite.wordpress.com/2016/03/07/social-network-analysis-centrality/", 
         "https://khwongsite.wordpress.com/2016/02/23/sentiment-classification/", 
         "https://khwongsite.wordpress.com/2016/02/02/natural-language-processing-and-content-analysis/"
     ], 
-    "siteURL": "https://khwongsite.wordpress.com/", 
-    "id": 43, 
     "articles": [
         {
             "content": "At the lecture last two week, we have saw several different Centrality methods of social network analysis, which mainly used to measure the relative importance of an nodes in a social network.Most of the centrality measures possess one of two properties: either parallel duplication or the importance of geodesics. We commonly use Degree centrality, Betweenness centrality and Closeness centrality to index the nodes\u2019 activity, measure the nodes\u2019 control and they communicational efficiency to know their centrality.Another important method is to compute the entropy of each nodes to measure the importance of it. Instead of finding the importance of geodesics of each nodes,we assume a information flow start from a specific node, then summary the probability that the flow stop at each node to get their centrality. If there is much freedom of choice to go through the next adjacent nodes, this node would be thought to have high centrality. The peak value of centrality of a node appear when the probability to travel to the next nodes are equal and its go with increasing N.Through running these centrality measurement on social network, we can find out the important actors from the complex network and understand much clearly about how the social network works.", 
@@ -2696,7 +2647,7 @@
             "comments": [
                 {
                     "content": "I would like to know when entropy measurement can outperform the other measurements like betweenness ?", 
-                    "to": "khwongsite", 
+                    "to": "khwong", 
                     "from": "zfansite", 
                     "time": "2016 \u5e74 03 \u6708 08 \u65e5 at 23:24:43"
                 }
@@ -2709,7 +2660,7 @@
             "comments": [
                 {
                     "content": "In your blog you mention that \u201cFor machine learning, some documents which we know their sentiment class are used to train the dictionary.\" and \u201cIn Lexicon approach, the way we construct the dictionary is different. \" So the difference is that one is with scores and the other is not?", 
-                    "to": "khwongsite", 
+                    "to": "khwong", 
                     "from": "zfansite", 
                     "time": "2016 \u5e74 03 \u6708 08 \u65e5 at 23:20:00"
                 }
@@ -2722,16 +2673,16 @@
             "comments": [], 
             "title": "Natural Language Processing and Content\u00a0Analysis"
         }
-    ]
+    ], 
+    "siteURL": "https://khwongsite.wordpress.com/", 
+    "sid": "1155043813"
 }{
-    "username": "niklauswordpresscom", 
+    "username": "niklaushuang", 
     "articles_list": [
         "https://niklauswordpresscom.wordpress.com/2016/03/08/iems5723_blog2_technique-on-crawling-douban/", 
         "https://niklauswordpresscom.wordpress.com/2016/02/23/iems5723_blog2_some-thinkings-on-privacy/", 
         "https://niklauswordpresscom.wordpress.com/2016/02/02/iems5723_blog1_-knowledge-consolidating-of-big-data/"
     ], 
-    "siteURL": "https://niklauswordpresscom.wordpress.com", 
-    "id": 44, 
     "articles": [
         {
             "content": "Here takes the Douban music as example. The analysis of the website structure is quite important in the crawler, the page which shows the most URL to the relative webpages of the individual item like music here is what the crawler needs. After study of the website, it is found that the website has a tag page for each different type of music.After clicking into different tags, the list of all the music in this tag is shown and follow the list URL can get the item of music and users rating of the correlated music.The website of the list page need to locate the \u2018next page\u2019 element and the detail pages of the user ratings also need this kind of elements so that much more items and ratings can be download by the crawler.", 
@@ -2751,7 +2702,9 @@
             "comments": [], 
             "title": "IEMS5723_Blog1_ Knowledge Consolidating of Big\u00a0data"
         }
-    ]
+    ], 
+    "siteURL": "https://niklauswordpresscom.wordpress.com", 
+    "sid": "1155055168"
 }{
     "username": "lomicoverjing", 
     "articles_list": [
@@ -2763,8 +2716,6 @@
         "https://lomicoverjing.wordpress.com/2015/10/07/growing-lomis-community-on-instagram/", 
         "https://lomicoverjing.wordpress.com/2015/09/23/egocentric-networks-of-lomis-college-friends/"
     ], 
-    "siteURL": "https://lomicoverjing.wordpress.com/", 
-    "id": 45, 
     "articles": [
         {
             "content": "TF-IDF is a\u00a0term\u00a0\u201cfrequency-inverse document frequency\u201d which is an information retrieval and data mining techniques for common weighting. Combine this\u00a0technique can let\u00a0analysis\u00a0system be more efficiently weight word scores before classification. For example,\u00a0Delta TFIDF significantly improves accuracy for sentiment analysis problems using three well known data sets. And we can also take advantage of text features of TF-IDF, and by establish SVM forecast system to do sentimental analysis.Reference\u00a0links for :(1) Paper material : \u201cDelta TFIDF: An Improved Feature Space for Sentiment Analysis\u201c.\u00a0(2) Blog Code : tfidf for \u60c5\u611f\u5206\u6790\n\n\n\n\n\n\t\t\t\t\t(function(g){g.__ATA.initAd({sectionId:26942, width:300, height:250});})(window);\n\t\t\t\t\t\n\n\nShare this:TwitterFacebookGoogleLike this:Like Loading... ", 
@@ -2835,9 +2786,11 @@
             ], 
             "title": "Who are you, Social Media\u00a0Analytics?"
         }
-    ]
+    ], 
+    "siteURL": "https://lomicoverjing.wordpress.com/", 
+    "sid": "1155071774"
 }{
-    "username": "Shorie's Blog", 
+    "username": "shorieyu", 
     "articles_list": [
         "https://shorieyxy.wordpress.com/2016/03/08/weibo-marketing-based-on-sna/", 
         "https://shorieyxy.wordpress.com/2016/02/23/introduction-of-text-semantic-analysis/", 
@@ -2847,8 +2800,6 @@
         "https://shorieyxy.wordpress.com/2015/10/06/information-cascade-and-network-media-guidance-on-public-opinion/", 
         "https://shorieyxy.wordpress.com/2015/09/22/comparisons-between-two-different-types-of-social-network-communities/"
     ], 
-    "siteURL": "https://shorieyxy.wordpress.com/", 
-    "id": 46, 
     "articles": [
         {
             "content": "As we can see, Weibo can be described as a directed graph in SNA(social network analysis). To convey information more widely and effectively, the merchants are supposed to put in more time and energy to get higher scores\u00a0in SNA.Firstly, we all know that a business marketing\u00a0account in Weibo always pursues \u201cthe more followers the better\u201d, which is actually\u00a0to increase\u00a0its indegree centrality to make its promoting information be seen by more users directly. \u00a0Besides, the\u00a0larger proportion of high betweenness centrality followers the better, which would help information be further spread to other clusters by these high-betweenness actors.\u00a0Of course, there are more SNA theories can be applied to marketing cases to be discussed.", 
@@ -2856,25 +2807,25 @@
             "comments": [
                 {
                     "content": "Weibo is really a perfect place to do social analysis for the reason that the data is open to anyone. We can even know the path and direction of the development of public opinion through the analysis of micro-blog.", 
-                    "to": "Shorie's Blog", 
+                    "to": "shorieyu", 
                     "from": "aimee1116", 
                     "time": "March 15, 2016 at 8:06 am"
                 }, 
                 {
                     "content": "It\u2019s true that the more followers the more potential consumers the advertising can reach. This is why now many merchants look for celebrities to post a Weibo about their product. We can also find some commercials pushed to our portal now. In the era of  information, social media is definitely a good platform for marketing. And social media analysis helps recommend ads more effectively and intelligently.", 
-                    "to": "Shorie's Blog", 
+                    "to": "shorieyu", 
                     "from": "wangyifei", 
                     "time": "March 17, 2016 at 8:02 am"
                 }, 
                 {
                     "content": "Weibo is a rather open environment compared to places like wechat, and it is less complicated than lather\u2014 the reposting and commenting rules are simpler. Sometimes, a public post may lead to cascade in a short time. This is an amazing phenomenon in SNA, and also worth analysing.", 
-                    "to": "Shorie's Blog", 
+                    "to": "shorieyu", 
                     "from": "suegersu", 
                     "time": "March 28, 2016 at 1:18 pm"
                 }, 
                 {
                     "content": "You take me back to the knowledge in last semester. Normally, to do the promotion on the social networking platform such as Weibo, companies should be good at finding the superconnectors or hubs in the social network, such as those who own rich customer resources or some influential customers who play the role of a thought leader, consequently attract more potential customers and gain more relevant benefits in advantage of the powerful influence of the superconnectors and hubs.", 
-                    "to": "Shorie's Blog", 
+                    "to": "shorieyu", 
                     "from": "yanxinwei2015", 
                     "time": "March 28, 2016 at 3:16 pm"
                 }
@@ -2887,19 +2838,19 @@
             "comments": [
                 {
                     "content": "Semantic Analysis of Chinese text is a very difficult work. Because of the improvement of Chinese dictionary is not strong, and this field is lack of professional analysis softwares. By the way, we are just three weeks to do project including use python program to build some semantic analysis software. Your blog is useful because of the introduce of  four Chinese analysis applications. I will try them and yield the greatest returns on application.", 
-                    "to": "Shorie's Blog", 
+                    "to": "shorieyu", 
                     "from": "yoyo", 
                     "time": "March 13, 2016 at 5:09 am"
                 }, 
                 {
                     "content": "The four applications for parting Chinese words are great ! Hope you may also recommend several applications for parting English words,haha. Your blog has given me a better way to find key words in the courseware.", 
-                    "to": "Shorie's Blog", 
+                    "to": "shorieyu", 
                     "from": "wangyifei", 
                     "time": "March 27, 2016 at 3:26 am"
                 }, 
                 {
                     "content": "I am very interested in your recommendation links. As we know, text of semantic analysis requires advanced softwares and applications if we want to predict more accurately and clearly. Different predictions rely on different tools so that it is important for us to choose appropriate softwares or applications. I think your links will be very useful for our assignments and group projects, at least for me. Thanks for your sharing!", 
-                    "to": "Shorie's Blog", 
+                    "to": "shorieyu", 
                     "from": "jiashuang", 
                     "time": "March 27, 2016 at 9:54 am"
                 }
@@ -2912,26 +2863,28 @@
             "comments": [
                 {
                     "content": "Indeed, just as Danny Bradbury says, social media isn\u2019t just about collecting Facebook \u201clikes\u201d any more. This is the age of social media analytics and smart money is extracting intelligence from the network. Social media can generate information, Every time someone posts something on Twitter, Facebook, or Weibo, they create a digital footprint. Every time someone else reads it, they add to the data trail. Given the right analysis, this data can be used to make business decisions. BTW, a few years ago, some foreign companies predicted the trend of stock correctly by analyzing people\u2019s emotion in social media. As far as I am concerned, social media analytics still has great potential and we can gain more valuable information from it.", 
-                    "to": "Shorie's Blog", 
+                    "to": "shorieyu", 
                     "from": "desihu", 
                     "time": "February 3, 2016 at 5:06 am"
                 }, 
                 {
                     "content": "It is true that more and more industries influenced by the big data. Or in other words, big data can make predict and the managers can make better decisions use big data.", 
-                    "to": "Shorie's Blog", 
+                    "to": "shorieyu", 
                     "from": "aimee1116", 
                     "time": "March 15, 2016 at 8:17 am"
                 }, 
                 {
                     "content": "Big Data is quite popular nowadays that more and more science and techniques are   combined with it in information era. As a consequence, social media analysis are used usually for recommendations, spam detections, opinion mining, prediction, etc. based on big data which is really useful in various fields of science.", 
-                    "to": "Shorie's Blog", 
+                    "to": "shorieyu", 
                     "from": "rachelzcy", 
                     "time": "March 22, 2016 at 8:55 am"
                 }
             ], 
             "title": "Social Media Influence the Commercial World More and\u00a0More"
         }
-    ]
+    ], 
+    "siteURL": "https://shorieyxy.wordpress.com/", 
+    "sid": "1155066217"
 }{
     "username": "chenjiaxibupt", 
     "articles_list": [
@@ -2943,8 +2896,6 @@
         "https://chenjiaxibupt.wordpress.com/2015/10/07/power-of-crowd/", 
         "https://chenjiaxibupt.wordpress.com/2015/09/23/iems5720-assignment1-internet-makes-a-smaller-world/"
     ], 
-    "siteURL": "https://chenjiaxibupt.wordpress.com/", 
-    "id": 47, 
     "articles": [
         {
             "content": "Last week, we talked about basic knowledge of Social Analysis, such as Shannon\u2019s Information Theory, which is one of the greatest theory in 20th century. It reminds me about one book: The Information: A History, a Theory, a Flood, written\u00a0by science history writer James Gleick, author of Chaos: Making a New Science.The book\u2019s Chinese version is \u201cA Brief History of Information\u201d. It talks about how information evolve from the voice in ancient tribe to character, and to electronic signal. It introduces a lot of \u00a0\u2018milestone\u2019 in the history of information, such as the first difference\u00a0engine invented by\u00a0Charles Babbage, Shannon and his information theory, \u00a0Alan Turing and his\u00a0Turing Machine. Information is even the essence of gene. Everything consist from bit.", 
@@ -2990,14 +2941,14 @@
             "comments": [], 
             "title": "Beauty of Mathematics"
         }
-    ]
+    ], 
+    "siteURL": "https://chenjiaxibupt.wordpress.com/", 
+    "sid": "1155071528"
 }{
     "username": "zfanblog", 
     "articles_list": [
         "https://zfanblog.wordpress.com/2016/02/02/how-things-combine-together/"
     ], 
-    "siteURL": "http://zfanblog.wordpress.com/", 
-    "id": 48, 
     "articles": [
         {
             "content": "After\u00a0several\u00a0classes\u00a0of\u00a0IEMS5723,\u00a0I\u00a0notice\u00a0that\u00a0what\u00a0I\u00a0had\u00a0done\u00a0in\u00a0my\u00a0project\u00a0of\u00a0the\u00a0course\u00a0\u201cSocial\u00a0Computing\u201d\u00a0I\u00a0took\u00a0in\u00a0the\u00a0last\u00a0semester\u00a0was\u00a0quite\u00a0related\u00a0to\u00a0NLP.\u00a0In\u00a0the\u00a0project\u00a0I\u00a0implemented\u00a0a\u00a0system\u00a0that\u00a0can\u00a0rank\u00a0a\u00a0group\u00a0of\u00a0places\u00a0for\u00a0different\u00a0users\u00a0judging\u00a0from\u00a0their\u00a0social\u00a0media.Pre-Processing:\u00a0I\u00a0removed\u00a0all\u00a0the\u00a0web\u00a0tag\u00a0things\u00a0from\u00a0my\u00a0crawler\u00a0data.Tokenization:\u00a0I\u00a0used\u00a0a\u00a0keywords\u00a0set to\u00a0rank\u00a0the\u00a0preferences\u00a0of\u00a0different\u00a0users.Normalization:\u00a0I\u00a0converted\u00a0all\u00a0words\u00a0into\u00a0lowercases.Stemming:\u00a0There\u00a0were\u00a0various\u00a0keywords\u00a0in\u00a0each\u00a0keywords\u00a0set.Parts\u00a0of\u00a0Speech:\u00a0I\u00a0concerned\u00a0more\u00a0about\u00a0adjectives\u00a0to\u00a0rank\u00a0preferences.It\u2019s\u00a0good\u00a0to\u00a0see\u00a0things\u00a0combine\u00a0together\u00a0:\u00a0)", 
@@ -3005,7 +2956,9 @@
             "comments": [], 
             "title": "How things combine\u00a0together"
         }
-    ]
+    ], 
+    "siteURL": "http://zfanblog.wordpress.com/", 
+    "sid": "1155066685"
 }{
     "username": "thomasfengblog", 
     "articles_list": [
@@ -3013,8 +2966,6 @@
         "https://thomasfengblog.wordpress.com/2016/02/23/2nd-post-about-sentiment-analysis/", 
         "https://thomasfengblog.wordpress.com/2016/02/01/1st-post-about-social-media/"
     ], 
-    "siteURL": "https://thomasfengblog.wordpress.com/", 
-    "id": 49, 
     "articles": [
         {
             "content": "Yesterday, House of Cards season 4 is released by Netflix and I couldn\u2019t wait to watch it. What\u2019s interesting is that, in episode 3, a character mention the sentiment analysis about the public. \u201dEvery cent (of gas) \u00a0it goes up is another six points on the anger index. \u201d\u00a0 said by some professional in this field, of course, in the drama.I guess that collecting people\u2019s tweets or posts on Facebook as test set, predict the sentiment, or sentiment probability, can evaluate people\u2019s anger index. Combing the index and the rise or fall of gas\u00a0price, it\u2019s possible to determine relations between gas price and people\u2019s sentiment.Also, it seems that sentiment analysis can be applied to analyze whether Frank Underwood is having a worse image than his wife, to test names of anti-depressants for five-year-olds or what color cross trainers soccer moms will drool over. These applications remind me of using sentiment analysis to do stock price prediction, which is even more interesting.", 
@@ -3097,9 +3048,11 @@
             ], 
             "title": "1st post about Social\u00a0Media"
         }
-    ]
+    ], 
+    "siteURL": "https://thomasfengblog.wordpress.com/", 
+    "sid": "1155066601"
 }{
-    "username": "xiaoyucuhk", 
+    "username": "wxy82987", 
     "articles_list": [
         "https://xiaoyucuhk.wordpress.com/2016/03/08/sentiments-and-water-army/", 
         "https://xiaoyucuhk.wordpress.com/2016/02/23/web-crawling-for-sma/", 
@@ -3109,8 +3062,6 @@
         "https://xiaoyucuhk.wordpress.com/2015/10/06/rational-thinking-vs-herd-behavior-and-infomation-cascading/", 
         "https://xiaoyucuhk.wordpress.com/2015/09/21/features-of-social-media/"
     ], 
-    "siteURL": "https://xiaoyucuhk.wordpress.com/", 
-    "id": 50, 
     "articles": [
         {
             "content": "As we learned in lecture 5, people\u2019s opinions include not only objective information but also sentimental expression. Though sentiments are subjective, they are important as well. We can easily imagine that a product with more positive feedback are more likely better than another product with more negative feedback. The comments with sentiments help customers to make quicker decision.However sentiments not always imply the truth and some of people, so call \u2018Water Army\u2019, are active online. They may abuse the \u2018comment\u2019 and\u2018feedback\u2019 functions, add all positive or negative sentiments below certain products to mislead customers and achieve their goals. In those cases, the sentiments analysis should be performed carefully.", 
@@ -3118,13 +3069,13 @@
             "comments": [
                 {
                     "content": "Identifying water army in microblogging system is an interesting research problem.Most of existing methods of identifying water army use static features such as user messages amount, registration time or number of friends,etc. These methods are difficult to achieve good performance in practical applications.", 
-                    "to": "xiaoyucuhk", 
+                    "to": "wxy82987", 
                     "from": "hewenda211", 
                     "time": "2016-03-17 \u4f4d\u4e8e 15:26"
                 }, 
                 {
                     "content": "I totally agree with you. I am always influenced by other netizens\u2019 product reviews online when I buy products on Taobao or Tmall. Sometimes these reviews helped me to find my expected items quickly. However, there are also some situations that I was misled by some fake product reviews from so called \u201cwater army\u201d. Therefore, data screening is also quite important before conducting sentiments analysis.", 
-                    "to": "xiaoyucuhk", 
+                    "to": "wxy82987", 
                     "from": "lynnsl", 
                     "time": "2016-03-22 \u4f4d\u4e8e 13:15"
                 }
@@ -3137,13 +3088,13 @@
             "comments": [
                 {
                     "content": "Yeah, I totally agree with you that we must be \u2018polite\u2019 enough to obey the crawling policies and administrator\u2019s allowance. The classic example is that we should write some code to act as a real browser. The preparation of the data crawling is quite complex, but I learned a lot from writing spider by myself.", 
-                    "to": "xiaoyucuhk", 
+                    "to": "wxy82987", 
                     "from": "luolinh", 
                     "time": "2016-02-23 \u4f4d\u4e8e 22:09"
                 }, 
                 {
                     "content": "It is a good phenomenon that more and more people pay attention on the policies of internet as it may causes a lot of  risks like spreading the private informations and attack the computers. So not only the web crawling but other technologies like AI should also set up more restrictions.", 
-                    "to": "xiaoyucuhk", 
+                    "to": "wxy82987", 
                     "from": "ypzheng", 
                     "time": "2016-03-22 \u4f4d\u4e8e 14:59"
                 }
@@ -3156,16 +3107,18 @@
             "comments": [
                 {
                     "content": "K-Means clustering is a simpler way for differentiate the data in different group based on similarity between data. The most important part is how to extract features for comparison and find a suitable K value.", 
-                    "to": "xiaoyucuhk", 
+                    "to": "wxy82987", 
                     "from": "tomtong1106", 
                     "time": "2016-03-01 \u4f4d\u4e8e 10:14"
                 }
             ], 
             "title": "Unsupervised Learning \u2013 Text\u00a0Clustering"
         }
-    ]
+    ], 
+    "siteURL": "https://xiaoyucuhk.wordpress.com/", 
+    "sid": "1155072360"
 }{
-    "username": "suegersu", 
+    "username": "SUEGERSU", 
     "articles_list": [
         "https://suegersu.wordpress.com/2016/03/07/an-introduction-of-common-clustering-algorithm/", 
         "https://suegersu.wordpress.com/2016/02/19/what-is-the-difference-between-naive-bayes-classifier-and-other-common-bayes-classifier/", 
@@ -3175,8 +3128,6 @@
         "https://suegersu.wordpress.com/2015/10/06/how-rumors-spread-so-quickly-in-social-network/", 
         "https://suegersu.wordpress.com/2015/09/23/how-social-network-affects-our-life/"
     ], 
-    "siteURL": "https://suegersu.wordpress.com/", 
-    "id": 51, 
     "articles": [
         {
             "content": "Clustering algorithm is an important algorithm of machine learning, we always use unsupervised learning to do. \u00a0Following is the basic classification of clustering algorithms:", 
@@ -3184,13 +3135,13 @@
             "comments": [
                 {
                     "content": "Thank you for introducing us clustering algorithms. The typical application in unsupervised learning is clustering without training data. However, most of the supervised learning algorithms have good effects while the results of clustering are not so well. On the one hand, take the study process of middle school students for the example. If students don\u2019t know the correct answers after each exams, they may not be able to absorb the knowledge very well. On the other hand, supervised learning costs too much. So, semi-supervised learning are more and more popular nowadays.", 
-                    "to": "suegersu", 
+                    "to": "SUEGERSU", 
                     "from": "rachelzcy", 
                     "time": "2016-03-22 @ 19:45"
                 }, 
                 {
                     "content": "I like your answer if there is an exam need short answers. Ahhh. So clearly summary of the algorithm. Wonderful blog.", 
-                    "to": "suegersu", 
+                    "to": "SUEGERSU", 
                     "from": "yangjian0404", 
                     "time": "2016-03-27 @ 22:56"
                 }
@@ -3209,5 +3160,7 @@
             "comments": [], 
             "title": "An understanding of Natrual language processing\u00a0"
         }
-    ]
+    ], 
+    "siteURL": "https://suegersu.wordpress.com/", 
+    "sid": "1155043820"
 }

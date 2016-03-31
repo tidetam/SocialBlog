@@ -8,12 +8,10 @@ import urllib2
 import re
 from bs4 import BeautifulSoup
 
-
-
 class User:
     def __init__(self, sid, username, link):
         self.sid = sid
-        self.username = None
+        self.username = username
         self.siteURL = link
         self.articles_list = []
         self.articles = []
@@ -24,12 +22,10 @@ class User:
 
         try:
             soup = BeautifulSoup(response, "html.parser")
-            # self.username = soup.select('.site-title')[0].get_text()
             for entry in soup.select('.entry-title'):
                 self.articles_list.append(entry.a['href'])
         except Exception, e:
             print e
-    # def __str__(self):
 
     def getArticles(self):
         for i in range(len(self.articles_list)):
@@ -61,46 +57,36 @@ class User:
             except Exception, e:
                 print e
                 continue
-            # print '\n\n'
-                
             
     def to_JSON(self):
         return json.dumps(self, default=lambda o: o.__dict__, sort_keys=False, indent=4)
 
+if __name__ == '__main__':
+    users = [None] * 100
+    j = 0
+    edges = []
+    with open('IEMS5723_Blog_URLs.csv', 'rb') as usersfile:
+        reader = csv.reader(usersfile, delimiter=',')
+        headers = next(reader)
+        for row in reader:
+            sid, username, link = row[2], row[3], row[4]
+            users[j] = User(sid, username, link)
+            users[j].getArticles()
+            j += 1
 
-users = [None] * 100
-j = 0
-edges = []
-with open('IEMS5723_Blog_URLs.csv', 'rb') as usersfile:
-    reader = csv.reader(usersfile, delimiter=',')
-    headers = next(reader)
-    for row in reader:
-        sid, username, link = row[2], row[3], row[4]
-        users[j] = User(sid, username, link)
-        users[j].getArticles()
-        j += 1
+    with open('edges.csv', 'wb') as wf:
+        for e in edges:
+            try:
+                wf.write(e[0] + ',' + e[1] + '\n')
+            except Exception, e:
+                print e
+                continue
 
-with open('edges.txt', 'wb') as wf:
-    for e in edges:
-        wf.write(e[0] + ' ' + e[1] + '\n')
-
-uf = open('users.txt', 'wb')
-for i in range(100):
-    if users[i]:
-        uf.write(users[i].to_JSON())
-    else:
-        break
-# print users[0].id
-# print users[0].articles_list
-# userlinks = ['https://ypzheng.wordpress.com/', 'https://tidetam.wordpress.com/']
-# users = [User(l) for l in userlinks]
-# print users[0].articles_list
-# print users[1].articles_list
-
-        # page = self.getPage()
-        # pattern = re.compile('<h1 class="entry-title"><a href="(.*?)".*')
-        # items = re.findall(pattern,page)
-        # for item in items:
-        #     print item
+    uf = open('users.json', 'wb')
+    for i in range(100):
+        if users[i]:
+            uf.write(users[i].to_JSON())
+        else:
+            break
 
  
