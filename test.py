@@ -83,10 +83,14 @@ if __name__ == '__main__':
                 continue
 
     uf = open('users.json', 'wb')
+    # json_string = json.dumps([ob.__dict__ for ob in list_name])
+    uf.write('[')
     for i in range(100):
         if users[i]:
+            if i!=0:
+                uf.write(',\n')
             uf.write(users[i].to_JSON())
         else:
             break
-
+    uf.write(']')
  

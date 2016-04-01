@@ -1,4 +1,4 @@
-{
+[{
     "username": "jessejeashi", 
     "articles_list": [
         "https://jessejeashi.wordpress.com/2016/03/08/iems5723_entropy-centrality-for-sna-and-community-detection/", 
@@ -50,6 +50,12 @@
                     "to": "jessejeashi", 
                     "from": "suegersu", 
                     "time": "2016-03-28 @ 20:28"
+                }, 
+                {
+                    "content": "At the very first beginning, I\u2019m not experienced with Python, but I want to do some Data Analytic with a corpus(\u8bcd\u5e93). Then I\u2019m doing that part in NLTK Python. Your steps of how to do the sentiment analysis with NLTK is quite useful, actually, it\u2019s very similar to what I have done. I went through the entire corpus and make a dictionary containing every word that appears in the corpus dataset sorting by the amount of times that words emerged. Since what I want is just POS of loose words, I don\u2019t use ngrams. Assume the corpus is already tagged, what I do is just import nltk.corpus then use its function ConditionalFreqDist to counter the number of times a word comes up.", 
+                    "to": "jessejeashi", 
+                    "from": "luolixing", 
+                    "time": "2016-04-01 @ 13:08"
                 }
             ], 
             "title": "IEMS5723_Setup of Sentiment Analysis with\u00a0Python"
@@ -82,7 +88,8 @@
     ], 
     "siteURL": "https://jessejeashi.wordpress.com/", 
     "sid": "1155066181"
-}{
+},
+{
     "username": "desihu", 
     "articles_list": [
         "https://desihu.wordpress.com/2016/01/28/blog-3-a-recommendation-of-a-data-mining-software/", 
@@ -186,7 +193,8 @@
     ], 
     "siteURL": "https://desihu.wordpress.com", 
     "sid": "1155066100"
-}{
+},
+{
     "username": "sunyihan", 
     "articles_list": [
         "https://yiyisite.wordpress.com/2016/03/07/blog-3/", 
@@ -306,7 +314,8 @@
     ], 
     "siteURL": "https://yiyisite.wordpress.com/", 
     "sid": "1155066090"
-}{
+},
+{
     "username": "luolinh", 
     "articles_list": [
         "https://luolinh.wordpress.com/2016/03/06/the-meaning-of-understanding-soicial-network/", 
@@ -335,7 +344,8 @@
     ], 
     "siteURL": "https://luolinh.wordpress.com/", 
     "sid": "1155066599"
-}{
+},
+{
     "username": "luolixing", 
     "articles_list": [
         "https://iems5723.wordpress.com/2016/03/07/does-alphagos-victory-means-human-defeated-by-machine/", 
@@ -346,7 +356,14 @@
         {
             "content": "These days, the world\u2019s greatest Go player(Lee Se-Doi, from South Korean) were defeated by AlphaGo, an AI program developed by Google\u2019s DeepMind Unit. AlphaGo has already won three of the five games in the $1 million series, but yesterday Lee won back one game.Machines have already beaten Human Beings once at chess in 1997. As the most intelligent machine in the world, AlphaGo has a deeply specific purpose: its artificial intelligence is designed to use different types of programs in harmony to help it deal with the trillions upon trillions of different outcomes involved in the playing. And such kind of learning and analysing methods are only belong to Human Beings only, but now thanks to the Machine Learning, it makes AI also have this ability.The basic structure of Machine Learning consists of Probability, Statistical Estimation, Decision Theory, Graphical Models, Regularisation and Stochastic Processes. And there\u2019re basic knowledge for you to learn Natural Language Processing and Text Mining Technology. The Social Media tracker tool will use the above Technology to comb through millions of data about the manner and though of Human Beings. Then the Machine will use the analysing results to modify Human\u2019s behaviors, making decisions as Human, and even filter some unreasonable or\u00a0not smart results.But while the algorithm has been tailored to play in virtual environments like Go, the machine powering its learning has more general applications. But the development of the intelligence required to beat Lee Se-Dol has come about quicker than we\u2019ve expected.However,\u00a0the development of the intelligence required to beat Lee Se-Dol has come about quicker than we\u2019ve expected.Maybe it\u2019s really a time for our Human Beings to think of how to learn Machine Learning Better.", 
             "url": "https://iems5723.wordpress.com/2016/03/07/does-alphagos-victory-means-human-defeated-by-machine/", 
-            "comments": [], 
+            "comments": [
+                {
+                    "content": "It\u2019s the era to use UGC to Tell the Future via Machine Learning I suppose. AlphaGo is simply one of those amazing AI applications. Machine learning is the modern science of finding patterns and making predictions from data based on work in multivariate statistics, data mining, pattern recognition, and advanced/predictive analytics.\nAs in our daily life, MovieLens recommends a film you would like, iPhone predicts that you should leave now to get to your meeting on time, and Pandora magically creates your ideal playlist, these are examples of machine learning over a Big Data stream. It\u2019s programmers'(creators\u2019) world and let\u2019s embrace a new lifestyle.", 
+                    "to": "luolixing", 
+                    "from": "jessejeashi", 
+                    "time": "April 1, 2016 at 4:02 am"
+                }
+            ], 
             "title": "Understand Social Media With Machine Learning"
         }, 
         {
@@ -364,6 +381,24 @@
                     "to": "luolixing", 
                     "from": "desihu", 
                     "time": "February 1, 2016 at 4:29 pm"
+                }, 
+                {
+                    "content": "I use \u77e5\u4e4e for 2 year and also have much think of it. Of course I need to say \u77e5\u4e4e is actually a good website for people to discuss questions and give their answer to questions with strictly attitude. But as a old users of \u77e5\u4e4e, in my opinion, \u77e5\u4e4e has its fatal weakness, for \u77e5\u4e4e users always follow the famous users with lots of answer and support and ignore the answer from common people. Thus people always saw the answer from successful people, which is not adapt to common people and misleading. For example, many users think the price of Chinese apartment is so cheap for they all have high salary, which is obvious a false impression.", 
+                    "to": "luolixing", 
+                    "from": "khwong", 
+                    "time": "March 7, 2016 at 9:34 am"
+                }, 
+                {
+                    "content": "With the grow of the reputation of the site, there more and more users who love to post answers with long long unrelated material, seems that they live for \u201czhuangbility\u201d. But this phenomenon is a sure-to-happen one due to the increasing number of the visitors of the site, let\u2019s hope zhihu wouldn\u2019t turn to an end like tieba\u2026", 
+                    "to": "luolixing", 
+                    "from": "zfansite", 
+                    "time": "March 8, 2016 at 4:10 pm"
+                }, 
+                {
+                    "content": "I think Zhihu is a relatively high quality community online. I always use Zhihu to find some solutions for my problem. I find the solutions provided by Zhihu more professional and responsible than other forums. Although trash-like answers also appear in Zhihu, the best answers are always at the first sight position through votes.", 
+                    "to": "luolixing", 
+                    "from": "hyingying226", 
+                    "time": "March 16, 2016 at 9:53 am"
                 }
             ], 
             "title": "Do you know about Zhihu\uff1f"
@@ -371,7 +406,8 @@
     ], 
     "siteURL": "https://iems5723.wordpress.com/", 
     "sid": "1155043810"
-}{
+},
+{
     "username": "tomtong1106", 
     "articles_list": [
         "https://socialmediaanalyticsiems5723.wordpress.com/2016/03/02/sentiment-classification/", 
@@ -400,7 +436,8 @@
     ], 
     "siteURL": "https://socialmediaanalyticsiems5723.wordpress.com/", 
     "sid": "1155030186"
-}{
+},
+{
     "username": "Francis.yoyo", 
     "articles_list": [
         "https://francisyoyo.wordpress.com/2016/03/07/weibo-mood-analysis-in-china-and-chinese-dictionary/", 
@@ -484,6 +521,12 @@
                     "to": "Francis.yoyo", 
                     "from": "yanxinwei2015", 
                     "time": "2016-03-21 at 18:04"
+                }, 
+                {
+                    "content": "Nice example for Naive Bayes Text Classification. Through your training experiment in class, I had  fully understanding of what\u2019s Naive Bayes Text Classification and how machine learning works. By reading your related portfolios about classification methods, I\u2019m wondering what\u2019s the difference between these different method, such as Naive Bayes Text Classification and cluttering and in which kind of specific situation we should utilize them respectively. And I found that Naive Bayes Text Classification is just a simple way which ignored many other exceptions and errors. For some complex research, maybe customized functions should be defined in our own python programme.", 
+                    "to": "Francis.yoyo", 
+                    "from": "huangdanlei", 
+                    "time": "2016-04-01 at 12:10"
                 }
             ], 
             "title": "An interesting training of classify\u00a0books"
@@ -491,7 +534,8 @@
     ], 
     "siteURL": "https://francisyoyo.wordpress.com", 
     "sid": "1155073701"
-}{
+},
+{
     "username": "gmh92", 
     "articles_list": [
         "https://gmh92.wordpress.com/2016/03/08/social-networking-analysis/", 
@@ -524,7 +568,8 @@
     ], 
     "siteURL": "https://gmh92.wordpress.com", 
     "sid": "1155074693"
-}{
+},
+{
     "username": "zhenyacuhkblog", 
     "articles_list": [
         "https://zhenyacuhkblog.wordpress.com/2016/03/07/aspect-level-analysis/", 
@@ -553,7 +598,8 @@
     ], 
     "siteURL": "https://zhenyacuhkblog.wordpress.com", 
     "sid": "1155066226"
-}{
+},
+{
     "username": "scarletthui", 
     "articles_list": [
         "https://scarletthui.wordpress.com/2016/03/07/clustering-in-unsupervised-learning/", 
@@ -641,6 +687,12 @@
                     "to": "scarletthui", 
                     "from": "hewenda211", 
                     "time": "March 28, 2016 at 9:30 am"
+                }, 
+                {
+                    "content": "Thank you so much for sharing this with us! Our group need this indeed. As we all know, maybe the algorithm is similar in different languages, but we still have to construct the own sentiment  library for every single language system and maybe more than one library for different field of discussing even in same language.", 
+                    "to": "scarletthui", 
+                    "from": "suegersu", 
+                    "time": "March 31, 2016 at 10:41 am"
                 }
             ], 
             "title": "Chinese Sentiment Analysis"
@@ -667,7 +719,8 @@
     ], 
     "siteURL": "https://scarletthui.wordpress.com", 
     "sid": "1155066169"
-}{
+},
+{
     "username": "huangdanlei", 
     "articles_list": [
         "https://iems5720blog.wordpress.com/2016/03/08/entropy-centrality/", 
@@ -700,7 +753,8 @@
     ], 
     "siteURL": "https://iems5720blog.wordpress.com", 
     "sid": "1155072356"
-}{
+},
+{
     "username": "jiangyuheng", 
     "articles_list": [
         "https://jiangyuhengwordpresscom.wordpress.com/2016/03/07/unsupervised-learning/", 
@@ -822,7 +876,8 @@
     ], 
     "siteURL": "https://jiangyuhengwordpresscom.wordpress.com/", 
     "sid": "1155073647"
-}{
+},
+{
     "username": "SHEN Xiaoru", 
     "articles_list": [
         "https://shenxiaoru.wordpress.com/2016/03/08/social-network-analysis-and-visualization/", 
@@ -851,6 +906,18 @@
                     "to": "SHEN Xiaoru", 
                     "from": "shinnqy", 
                     "time": "2016 \u5e74 03 \u6708 27 \u65e5 at 21:37:41"
+                }, 
+                {
+                    "content": "I\u2019m also thinking about a question that weather the social network today changes or even subversives the traditional way of social. A data on social network is easy for us to sketch as long as we have done something, that is why we can do the analysis by the helping of some professional software. But how to analysis the traditional social way. That is a problem worth thinking.", 
+                    "to": "SHEN Xiaoru", 
+                    "from": "suegersu", 
+                    "time": "2016 \u5e74 03 \u6708 31 \u65e5 at 15:25:09"
+                }, 
+                {
+                    "content": "It\u2019s very clever of you to find Gaphi as a tool to analyze social media and network structure. If you took social network analysis last semester, you would be introduced several useful tools, such as, NodeXL. Of course, the visualization of social network could show the relationships directly and clearly to us, however, it could not demonstrate the attitude and sentiments of people which\u2019s the highlighting of social media analysis. With visualized graphic, some researches like analysis of different social media platforms through comparison could be easily proceeded. But if the research topic is around sentiments, reviews analysis or sth, visualization should not be recommended as a researching method.", 
+                    "to": "SHEN Xiaoru", 
+                    "from": "huangdanlei", 
+                    "time": "2016 \u5e74 04 \u6708 01 \u65e5 at 12:54:35"
                 }
             ], 
             "title": "\u00a0Social Network Analysis and Visualization\u00a0"
@@ -932,7 +999,8 @@
     ], 
     "siteURL": "https://shenxiaoru.wordpress.com/", 
     "sid": "1155068672"
-}{
+},
+{
     "username": "annie2020", 
     "articles_list": [
         "https://annie2020.wordpress.com/2016/03/07/how-to-handling-negation-in-sentiment-analysis/", 
@@ -964,7 +1032,8 @@
     ], 
     "siteURL": "https://annie2020.wordpress.com", 
     "sid": "1155069533"
-}{
+},
+{
     "username": "hyingying226", 
     "articles_list": [
         "https://hyingyingblog.wordpress.com/2016/03/07/entropy-centrality/", 
@@ -985,6 +1054,12 @@
                     "to": "hyingying226", 
                     "from": "liyao6", 
                     "time": "2016-03-20 at 21:26"
+                }, 
+                {
+                    "content": "I am wondering whether you have heard about \u201cEntropy Walker\u201d. As we know, Community Detection in large graphs is getting attention as an important application of SNA. The ability to detect closely knit communities opens several applications from targeting ads to recommender systems. Several algorithms have been developed for community detection these days. One of the fast and efficient algorithm is computed using the very popular formula: H = \u2013 \u2211( pi)(log pi). Yeah, its algorithm is somehow based on Entropy centrality. With the help of this algorithm, we are more easier to be able to specify the minimum and maximum size of communities and tend to form very small and dense communities while other networks form larger groups.", 
+                    "to": "hyingying226", 
+                    "from": "luolixing", 
+                    "time": "2016-04-01 at 15:37"
                 }
             ], 
             "title": "Entropy Centrality"
@@ -1072,7 +1147,8 @@
     ], 
     "siteURL": "https://hyingyingblog.wordpress.com", 
     "sid": "1155066098"
-}{
+},
+{
     "username": "yisongwu", 
     "articles_list": [
         "https://yisongwu.wordpress.com/2016/02/28/some-opinions-about-handling-negation/", 
@@ -1164,7 +1240,8 @@
     ], 
     "siteURL": "https://yisongwu.wordpress.com", 
     "sid": "1155068552"
-}{
+},
+{
     "username": "hewenda211", 
     "articles_list": [
         "https://hewenda211.wordpress.com/2016/03/09/term2emojis-in-sentiment-analysis/", 
@@ -1197,7 +1274,8 @@
     ], 
     "siteURL": "https://hewenda211.wordpress.com", 
     "sid": "1155073615"
-}{
+},
+{
     "username": "skycathy1314", 
     "articles_list": [
         "https://skycathy1314.wordpress.com/2016/03/04/sentiment-analysis-and-opinion-mining/", 
@@ -1277,7 +1355,8 @@
     ], 
     "siteURL": "https://skycathy1314.wordpress.com/", 
     "sid": "1155066036"
-}{
+},
+{
     "username": "shirley1023xys", 
     "articles_list": [
         "https://shirley1023xys.wordpress.com/2016/03/07/the-centrality-of-social-network/", 
@@ -1369,7 +1448,8 @@
     ], 
     "siteURL": "https://shirley1023xys.wordpress.com/", 
     "sid": "1155068553"
-}{
+},
+{
     "username": "lynnsl", 
     "articles_list": [
         "https://lynnshenblog.wordpress.com/2016/03/06/main-methods-for-sentiment-classification/", 
@@ -1386,6 +1466,12 @@
                     "to": "lynnsl", 
                     "from": "suegersu", 
                     "time": "2016-03-31 @ 14:41"
+                }, 
+                {
+                    "content": "I am glad that you have mentioned lexicon-based approaches in your blog and I want to make some extension about this part. Actually, the dictionary for lexicon-based approaches can be created manually or automatically, by using seed words to expand the list of words. Much of the lexicon-based research has focused on using adjectives as indicators of the semantic orientation of text. Lexicon-based method performs well in most of cases and it is robust across domains and texts. one of the criticisms raised against lexicon-based method is that the dictionary is unrealiable since either built automatically or hand-ranked manually.", 
+                    "to": "lynnsl", 
+                    "from": "luolixing", 
+                    "time": "2016-04-01 @ 15:45"
                 }
             ], 
             "title": "Main Methods for Sentiment Classification"
@@ -1405,7 +1491,8 @@
     ], 
     "siteURL": "https://lynnshenblog.wordpress.com/", 
     "sid": "1155071688"
-}{
+},
+{
     "username": "geehublog", 
     "articles_list": [
         "https://geehublog.wordpress.com/2016/03/06/are-these-hot-blogs-really-interesting/", 
@@ -1447,7 +1534,8 @@
     ], 
     "siteURL": "https://geehublog.wordpress.com/", 
     "sid": "1155074579"
-}{
+},
+{
     "username": "zhuxuanfiona", 
     "articles_list": [
         "https://zhuxuanfiona.wordpress.com/2016/03/07/social-network/", 
@@ -1503,7 +1591,8 @@
     ], 
     "siteURL": "https://zhuxuanfiona.wordpress.com/", 
     "sid": "1155066960"
-}{
+},
+{
     "username": "wumin2015", 
     "articles_list": [
         "https://wuminblog.wordpress.com/2016/03/02/social-network-analysis/", 
@@ -1611,7 +1700,8 @@
     ], 
     "siteURL": "https://wuminblog.wordpress.com/", 
     "sid": "1155073593"
-}{
+},
+{
     "username": "tidetam", 
     "articles_list": [
         "https://tidetam.wordpress.com/2016/03/07/social-media-analytics/", 
@@ -1641,7 +1731,14 @@
         {
             "content": "In last lecture, I have learnt sentiment analysis and opinion mining. And I have also learnt something about NLTK.NLTK (Natural Language Toolkit) is such a powerful tool that help us to do these jobs. We can use it easily by simply calling the method to get over 50 corpora and lexical resources for analysis.There are a lot of features of NLTK:In this big data era, I think NLTK can help us do many things. Now I am a beginner and want to do some practice to go deeper of this powerful tool.\u00a0Some learning material about NLTK:Book: Natural Language Processing with Python\nWebsite:\nhttp://www.nltk.org/\nhttp://text-processing.com/\nhttp://streamhacker.com/\u00a0\u00a0", 
             "url": "https://tidetam.wordpress.com/2016/02/24/what-can-we-do-with-nltk/", 
-            "comments": [], 
+            "comments": [
+                {
+                    "content": "Yes, I totally agree with the options of yours, the NLTK package really quit useful when the beginners start using it to do their works, but as the increasing requirements or the modern new forming words, the NLTK may not hold all the above needs, so I think we can develop some packages that can detect the Internet and get the updating corpora online to make the NLTK package much more better.", 
+                    "to": "tidetam", 
+                    "from": "niklaushuang", 
+                    "time": "March 31, 2016 at 8:42 am"
+                }
+            ], 
             "title": "What can we do with\u00a0NLTK"
         }, 
         {
@@ -1653,7 +1750,8 @@
     ], 
     "siteURL": "https://tidetam.wordpress.com/", 
     "sid": "1155068631"
-}{
+},
+{
     "username": "huanglingyun", 
     "articles_list": [
         "https://huanglingyun.wordpress.com/2016/03/04/major-concepts-in-social-network-analysis/", 
@@ -1737,7 +1835,8 @@
     ], 
     "siteURL": "http://huanglingyun.wordpress.com/", 
     "sid": "1155073592"
-}{
+},
+{
     "username": "wudi2016", 
     "articles_list": [
         "https://wudi2016.wordpress.com/2016/03/08/third-post-about-social-media-analytics/", 
@@ -1773,7 +1872,8 @@
     ], 
     "siteURL": "https://wudi2016.wordpress.com/", 
     "sid": "1155066051"
-}{
+},
+{
     "username": "timosy09", 
     "articles_list": [
         "https://timskyblog.wordpress.com/2016/03/03/can-sentiment-analysis-deal-with-irony/", 
@@ -1822,7 +1922,8 @@
     ], 
     "siteURL": "https://timskyblog.wordpress.com/", 
     "sid": "1155073578"
-}{
+},
+{
     "username": "lydialiublog", 
     "articles_list": [
         "https://lydialiublog.wordpress.com/2016/02/24/post-3/", 
@@ -1858,7 +1959,8 @@
     ], 
     "siteURL": "https://lydialiublog.wordpress.com/", 
     "sid": "1155068540"
-}{
+},
+{
     "username": "liyao6", 
     "articles_list": [
         "https://liyaoblog.wordpress.com/2016/03/04/blog-3/", 
@@ -1920,7 +2022,8 @@
     ], 
     "siteURL": "https://liyaoblog.wordpress.com/", 
     "sid": "1155073573"
-}{
+},
+{
     "username": "rachelzcy", 
     "articles_list": [
         "https://zhucongying.wordpress.com/2016/03/05/sna-for-link-mining/", 
@@ -2015,7 +2118,8 @@
     ], 
     "siteURL": "https://zhucongying.wordpress.com/", 
     "sid": "1155071415"
-}{
+},
+{
     "username": "tonyyipblog", 
     "articles_list": [
         "https://tonyyipblog.wordpress.com/2016/03/08/centrality/", 
@@ -2065,7 +2169,8 @@
     ], 
     "siteURL": "https://tonyyipblog.wordpress.com/", 
     "sid": "1155068676"
-}{
+},
+{
     "username": "shinnqy", 
     "articles_list": [
         "https://shinnqy.wordpress.com/2016/03/12/the-situation-of-social-network-websites/", 
@@ -2098,6 +2203,12 @@
                     "to": "shinnqy", 
                     "from": "jiangyuheng", 
                     "time": "2016-03-26 @ 13:02"
+                }, 
+                {
+                    "content": "Now in China, I think the most successful social product is Wechat among youths. It\u2019s easy to see that most of my friends shift from weibo to wechat. I think the reason is that Wechat allows users to interactive more easily. Just switch to \u201cmoment\u201d, user can know what their real friends do recently. It is innovative, I have heard that some company in silicon valley want to make a product like Wechat.", 
+                    "to": "shinnqy", 
+                    "from": "tidetam", 
+                    "time": "2016-03-31 @ 19:20"
                 }
             ], 
             "title": "The Situation of Social Network\u00a0Websites"
@@ -2143,7 +2254,8 @@
     ], 
     "siteURL": "https://shinnqy.wordpress.com/", 
     "sid": "1155065988"
-}{
+},
+{
     "username": "ypzheng", 
     "articles_list": [
         "https://ypzheng.wordpress.com/2016/03/08/social-network-analysis/", 
@@ -2176,6 +2288,12 @@
                     "to": "ypzheng", 
                     "from": "ctksite", 
                     "time": "2016-03-23 @ 10:46"
+                }, 
+                {
+                    "content": "Now it\u2019s in information age, we need a proper measuring standard for information. That\u2019s to say we need to make the data easier. The information entropy is the standard for us to measure information. As what you say, when choices are highly constrained, the entropy centrality is low. And this means it\u2019s more easier to predict certain symbols. On the contrary, if the entropy centrality is high, prediction is difficult. As a measure of centrality in networks, entropy measures data based on the way that traffic flows through the network.", 
+                    "to": "ypzheng", 
+                    "from": "luolixing", 
+                    "time": "2016-04-01 @ 16:14"
                 }
             ], 
             "title": "Social Network Analysis"
@@ -2215,7 +2333,8 @@
     ], 
     "siteURL": "https://ypzheng.wordpress.com/", 
     "sid": "1155068711"
-}{
+},
+{
     "username": "ryanxzs", 
     "articles_list": [
         "https://ryanxzs.wordpress.com/2016/03/08/social-network-and-community-detection/", 
@@ -2263,7 +2382,8 @@
     ], 
     "siteURL": "https://ryanxzs.wordpress.com/", 
     "sid": "1155072133"
-}{
+},
+{
     "username": "chenyouyang2", 
     "articles_list": [
         "https://cyysite.wordpress.com/2016/03/08/r-and-python-the-general-numbers/", 
@@ -2284,6 +2404,12 @@
                     "to": "chenyouyang2", 
                     "from": "ctksite", 
                     "time": "2016-03-23 @ 10:34"
+                }, 
+                {
+                    "content": "Let me help you to finish the rest parts. Let\u2019s talk about the Pros and Cons of R and Python. For R, its pros include (1) A picture says more than a thousands words (2) R ecosystem (3) R lingua franca of data science; its cons include (1) R is slow (2) R has a steep learning curve. For Python, its pros include (1) IPython Notebook (2) A general purpose language (3) A multi purpose language; its cons include (1) Visualizations (2) Python is a challenger program language.", 
+                    "to": "chenyouyang2", 
+                    "from": "luolixing", 
+                    "time": "2016-04-01 @ 17:01"
                 }
             ], 
             "title": "R and Python: The General\u00a0Numbers"
@@ -2317,7 +2443,8 @@
     ], 
     "siteURL": "https://cyysite.wordpress.com/", 
     "sid": "1155066922"
-}{
+},
+{
     "username": "ctksite", 
     "articles_list": [
         "https://ctksite.wordpress.com/2016/03/06/sentiment-analysis/", 
@@ -2338,6 +2465,12 @@
                     "to": "ctksite", 
                     "from": "aimee1116", 
                     "time": "2016-03-15 @ 20:23"
+                }, 
+                {
+                    "content": "The contents of your blog clearly state the basic approach of sentiment classification. I think the most significant point of that is the dictionary, if we want to accurately figure out the opinion behind the sentences, the dictionary must be plentiful enough to detect each word in the sentences and documents. And with the emergence of catchword, the detection become tough. Anyway, I think your blog is very useful for me to have a further understanding of sentiment analysis.", 
+                    "to": "ctksite", 
+                    "from": "luolixing", 
+                    "time": "2016-04-01 @ 15:49"
                 }
             ], 
             "title": "Sentiment Analysis"
@@ -2383,7 +2516,8 @@
     ], 
     "siteURL": "http://ctksite.wordpress.com", 
     "sid": "1155066307"
-}{
+},
+{
     "username": "jiashuang", 
     "articles_list": [
         "https://jiashuang.wordpress.com/2016/03/06/comparison-between-lexicon-based-and-machine-learning-approach/", 
@@ -2491,7 +2625,8 @@
     ], 
     "siteURL": "https://jiashuang.wordpress.com/", 
     "sid": "1155066851"
-}{
+},
+{
     "username": "wangyifei", 
     "articles_list": [
         "https://wangyifeiblog.wordpress.com/2016/03/05/sentiment-analysis/", 
@@ -2581,7 +2716,8 @@
     ], 
     "siteURL": "https://wangyifeiblog.wordpress.com", 
     "sid": "1155066103"
-}{
+},
+{
     "username": "ninjiazhao", 
     "articles_list": [
         "https://ninjiazhao.wordpress.com/2016/03/11/what-is-markov-cluster-algorithm-mcl/", 
@@ -2633,7 +2769,8 @@
     ], 
     "siteURL": "https://ninjiazhao.wordpress.com/", 
     "sid": "1155074696"
-}{
+},
+{
     "username": "khwong", 
     "articles_list": [
         "https://khwongsite.wordpress.com/2016/03/07/social-network-analysis-centrality/", 
@@ -2676,7 +2813,8 @@
     ], 
     "siteURL": "https://khwongsite.wordpress.com/", 
     "sid": "1155043813"
-}{
+},
+{
     "username": "niklaushuang", 
     "articles_list": [
         "https://niklauswordpresscom.wordpress.com/2016/03/08/iems5723_blog2_technique-on-crawling-douban/", 
@@ -2699,13 +2837,21 @@
         {
             "content": "After attending the class of the\u00a0Social Media Analytics, I really had my knowledge of Big Data consolidated, especially the lecture of the Content Analysis and Natural Language Processing.In my previous study, I learnt the knowledge of Big Data and did quit a lot of experiment about it, but the detail of the technology in theory still not engraved on my mind. When the lecture of Social Media Analytics comes into the knowledge about text classification and clustering, I suddenly understood the differences between their contents. The experiments were all using the training set, and I had not done the experiments without the training set.Finally, I realize that my previous researches were restricted to the classification and I will do something about the clustering in the future as well.", 
             "url": "https://niklauswordpresscom.wordpress.com/2016/02/02/iems5723_blog1_-knowledge-consolidating-of-big-data/", 
-            "comments": [], 
+            "comments": [
+                {
+                    "content": "The term \u201cbig data\u201d has been around for a while, but it\u2019s still a difficult concept to wrap our brain around. \u201cBig Data\u201d in social media field is comprised of structured and unstructured data. Structured data was gathered from a data model and lives in relational databases and spreadsheets. While unstructured data: less easily sorted information falls into this category. For example, online customer service chats, reviews, phone transcripts, and surveys all contain unstructured data.\nBoth classification and clustering in social media are necessary to extract implicit patterns and features from big amount of UGC data for further analysis. I\u2019ve tested TF-IDF in one of my assignments and results were relatively decent. You can then try different text clustering algorithms in your project. Good luck.", 
+                    "to": "niklaushuang", 
+                    "from": "jessejeashi", 
+                    "time": "2016-04-01 @ 13:04"
+                }
+            ], 
             "title": "IEMS5723_Blog1_ Knowledge Consolidating of Big\u00a0data"
         }
     ], 
     "siteURL": "https://niklauswordpresscom.wordpress.com", 
     "sid": "1155055168"
-}{
+},
+{
     "username": "lomicoverjing", 
     "articles_list": [
         "https://lomicoverjing.wordpress.com/2016/03/08/tf-idf-method-for-improving-sentiment-analysis/", 
@@ -2789,7 +2935,8 @@
     ], 
     "siteURL": "https://lomicoverjing.wordpress.com/", 
     "sid": "1155071774"
-}{
+},
+{
     "username": "shorieyu", 
     "articles_list": [
         "https://shorieyxy.wordpress.com/2016/03/08/weibo-marketing-based-on-sna/", 
@@ -2828,6 +2975,12 @@
                     "to": "shorieyu", 
                     "from": "yanxinwei2015", 
                     "time": "March 28, 2016 at 3:16 pm"
+                }, 
+                {
+                    "content": "I quite agree with you. Social media websites, like Weibo, are becoming an important and low-cost tool for corporations and organizations to reach out to their customers and fans all over the world, so that they can make promotions on their new products or services, improve corporate image, and enhance brand. Furthermore, many companies are making more efforts to increase traffic to their social media websites.", 
+                    "to": "shorieyu", 
+                    "from": "lynnsl", 
+                    "time": "April 1, 2016 at 5:28 am"
                 }
             ], 
             "title": "Weibo Marketing Based on\u00a0SNA"
@@ -2878,6 +3031,12 @@
                     "to": "shorieyu", 
                     "from": "rachelzcy", 
                     "time": "March 22, 2016 at 8:55 am"
+                }, 
+                {
+                    "content": "In my opinion, companies can make better decisions through making data analysis on the social media. What is more, big data analytics on the customers\u2019 expectations can help companies to create new products and services for customers, and take less risks of venturing into the market.", 
+                    "to": "shorieyu", 
+                    "from": "lynnsl", 
+                    "time": "April 1, 2016 at 6:10 am"
                 }
             ], 
             "title": "Social Media Influence the Commercial World More and\u00a0More"
@@ -2885,7 +3044,8 @@
     ], 
     "siteURL": "https://shorieyxy.wordpress.com/", 
     "sid": "1155066217"
-}{
+},
+{
     "username": "chenjiaxibupt", 
     "articles_list": [
         "https://chenjiaxibupt.wordpress.com/2016/03/08/the-information-a-history-a-theory-a-flood/", 
@@ -2944,7 +3104,8 @@
     ], 
     "siteURL": "https://chenjiaxibupt.wordpress.com/", 
     "sid": "1155071528"
-}{
+},
+{
     "username": "zfanblog", 
     "articles_list": [
         "https://zfanblog.wordpress.com/2016/02/02/how-things-combine-together/"
@@ -2959,7 +3120,8 @@
     ], 
     "siteURL": "http://zfanblog.wordpress.com/", 
     "sid": "1155066685"
-}{
+},
+{
     "username": "thomasfengblog", 
     "articles_list": [
         "https://thomasfengblog.wordpress.com/2016/03/06/sentiment-analysis-in-house-of-cards/", 
@@ -3051,7 +3213,8 @@
     ], 
     "siteURL": "https://thomasfengblog.wordpress.com/", 
     "sid": "1155066601"
-}{
+},
+{
     "username": "wxy82987", 
     "articles_list": [
         "https://xiaoyucuhk.wordpress.com/2016/03/08/sentiments-and-water-army/", 
@@ -3078,6 +3241,12 @@
                     "to": "wxy82987", 
                     "from": "lynnsl", 
                     "time": "2016-03-22 \u4f4d\u4e8e 13:15"
+                }, 
+                {
+                    "content": "It is true that the water army may mislead the customers to purchase the products through reading the comments which are all falsehood, but on the contrary, as a rich experienced customer, I always can find out which are water army\u2019s comments and pay more attention to judge the products. The really good products do not need the water army to mislead the customers, and the comments by really buyers are more natural than the water army.", 
+                    "to": "wxy82987", 
+                    "from": "niklaushuang", 
+                    "time": "2016-04-01 \u4f4d\u4e8e 01:18"
                 }
             ], 
             "title": "SENTIMENTS AND WATER\u00a0ARMY"
@@ -3097,6 +3266,12 @@
                     "to": "wxy82987", 
                     "from": "ypzheng", 
                     "time": "2016-03-22 \u4f4d\u4e8e 14:59"
+                }, 
+                {
+                    "content": "The first time I started to write a crawler to crawl the data, I also acted as a good manner one to crawl, but most websites do not as polite as me, they may use all kinds of reasons to prevent me to go on getting data. So I learnt lots of technicals to kick the websites, but I think twitter is quite friendly, although twitter stops you for a while after sending several requires, the website really gives you the raw data very conveniently and quite easily.", 
+                    "to": "wxy82987", 
+                    "from": "niklaushuang", 
+                    "time": "2016-04-01 \u4f4d\u4e8e 01:32"
                 }
             ], 
             "title": "Web Crawling for\u00a0SMA"
@@ -3117,7 +3292,8 @@
     ], 
     "siteURL": "https://xiaoyucuhk.wordpress.com/", 
     "sid": "1155072360"
-}{
+},
+{
     "username": "SUEGERSU", 
     "articles_list": [
         "https://suegersu.wordpress.com/2016/03/07/an-introduction-of-common-clustering-algorithm/", 
@@ -3157,10 +3333,17 @@
         {
             "content": "We\u2019ve learnt some basic knowledge of NLP and \u00a0some\nprocessing methods of it. As an understanding, NLP is regarded as a part of AI. In computers\u2019 world, it\u2019s easy for them to process a large amount of words in a very short time comparing to human being. But they will do this in a \u201cuniform\u201d way\u2014if we have the same input we will always get the same output. what we should do is to using the NLP to \u201cteach\u201d the machines to process the worlds in different ways inder different conditions and situations. After that, the machine can \u201cunderstand\u201d the meaning of the words and we finally realize the human-computer interaction.", 
             "url": "https://suegersu.wordpress.com/2016/02/02/an-understanding-of-natrual-language-processing/", 
-            "comments": [], 
+            "comments": [
+                {
+                    "content": "Traditionally human and computers needed to communicate in a programming language, which normally needs to be clear, precise and well structured, or some certain voice commands. Thus the user experience on human-computer interaction was not good. However, now NLP enables computers to understand human speech easily. Therefore, the way to communicate between human and computers would be much easier than before with NLP applications.", 
+                    "to": "SUEGERSU", 
+                    "from": "lynnsl", 
+                    "time": "2016-04-01 @ 11:12"
+                }
+            ], 
             "title": "An understanding of Natrual language processing\u00a0"
         }
     ], 
     "siteURL": "https://suegersu.wordpress.com/", 
     "sid": "1155043820"
-}
+}]
